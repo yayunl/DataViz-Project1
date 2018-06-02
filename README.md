@@ -66,7 +66,7 @@ This presentation will be delivered as a slideshow, and should give your classma
 
 As long as your slides meet the [presentation requirements](PresentationRequirements.md), you are free to structure the presentation however you wish, but students are often successful with the format laid out in the [presentation guidelines](PresentationGuidelines.md).
 
-The presentation requirements for Project 1 are as follows.
+**The presentation requirements for Project 1 are as follows.**
 
 Your presentation must:
 
