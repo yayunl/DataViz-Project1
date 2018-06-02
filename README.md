@@ -2,7 +2,7 @@
 This repository is for the group project 1 in UTBootCamp.
 
 
-## Guidelines for Project 1
+## Guidelines
 
 This document contains guidelines, requirements, and suggestions for Project 1.
 
@@ -148,5 +148,5 @@ Your presentation must:
 
 #### Copyright
 
-Coding Boot Camp &copy; 2017. All Rights Reserved.
+Coding Boot Camp &copy; 2018. All Rights Reserved.
 
