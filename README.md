@@ -2,17 +2,17 @@
 This repository is for the group project 1 in UTBootCamp.
 
 
-# Guidelines for Project 1
+## Guidelines for Project 1
 
 This document contains guidelines, requirements, and suggestions for Project 1.
 
-## Team Effort
+### Team Effort
 
 Before anything, remember that Projects are a **group effort**: Working closely with your teammates is a requirement. This both helps teach real-world collaborative workflows, and enables you to tackle more difficult problems than you'd be able to working alone.
 
 In other words, working in groups allows you to **work smart** and **dream big**. Take advantage of it!
 
-## Project Proposal
+### Project Proposal
 
 Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent [scope creep](https://en.wikipedia.org/wiki/Scope_creep).
 
@@ -28,7 +28,7 @@ In other words, write down what kind of data you plan to work with, and what kin
 
 > Our project is to uncover patterns in criminal activity around Los Angeles. We'll examine relationships between types of crime and location; crime rates and times of day; trends in crime rates over the course of the year; and related questions, as the data admits.
 
-## Finding Data
+### Finding Data
 
 Once your group has written an outline, it's time to start hunting for data. You are free to use data from any source, but we recommend the following curated sources of high-quality data:
 
@@ -42,7 +42,7 @@ Chances are you'll have to update your Project Outline as you explore the availa
 
 Make sure that your data is not too large for local analysis. **Big Data** datasets are difficult to manage locally, so consider a subset of that data or a different dataset altogether.
 
-## Data Cleanup &amp; Analysis
+### Data Cleanup &amp; Analysis
 
 With data in hand, it's time to tackle development and analysis. This is where the fun starts!
 
@@ -58,7 +58,7 @@ We recommend focusing your analysis on techniques such as aggregation, correlati
 
 Finally, be sure that your projects meet the [technical requirements](TechnicalRequirements.md).
 
-## Presentation
+### Presentation
 
 After you've analyzed your data to your satisfaction, you'll put together a presentation to show off your work, explain your process, and discuss your conclusions.
 
@@ -68,7 +68,7 @@ As long as your slides meet the [presentation requirements](PresentationRequirem
 
 - - -
 
-### Copyright
+#### Copyright
 
 Coding Boot Camp &copy; 2017. All Rights Reserved.
 
