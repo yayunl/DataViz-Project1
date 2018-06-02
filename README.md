@@ -76,7 +76,7 @@ As long as your slides meet the [presentation requirements](PresentationRequirem
 
 - [ ] Create a Jupyter Notebook illustrating the **final data analysis**
 
-- [ ] Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data)
+- [ ] Use Matplotlib to create a total of **6-8 visualizations** of your data (ideally, at least 2 per "question" you ask of your data)
 
 - [ ] Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation
 
