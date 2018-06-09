@@ -1,0 +1,281 @@
+Code,Subject,Value
+HC01_EST_VC01,Total; Estimate; Population 16 years and over,2911925
+HC01_MOE_VC01,Total; Margin of Error; Population 16 years and over,1254
+HC02_EST_VC01,Labor Force Participation Rate; Estimate; Population 16 years and over,67.2
+HC02_MOE_VC01,Labor Force Participation Rate; Margin of Error; Population 16 years and over,0.2
+HC03_EST_VC01,Employment/Population Ratio; Estimate; Population 16 years and over,61.6
+HC03_MOE_VC01,Employment/Population Ratio; Margin of Error; Population 16 years and over,0.2
+HC04_EST_VC01,Unemployment rate; Estimate; Population 16 years and over,8
+HC04_MOE_VC01,Unemployment rate; Margin of Error; Population 16 years and over,0.2
+HC01_EST_VC03,Total; Estimate; AGE - 16 to 19 years,203789
+HC01_MOE_VC03,Total; Margin of Error; AGE - 16 to 19 years,1259
+HC02_EST_VC03,Labor Force Participation Rate; Estimate; AGE - 16 to 19 years,42.1
+HC02_MOE_VC03,Labor Force Participation Rate; Margin of Error; AGE - 16 to 19 years,0.8
+HC03_EST_VC03,Employment/Population Ratio; Estimate; AGE - 16 to 19 years,31.9
+HC03_MOE_VC03,Employment/Population Ratio; Margin of Error; AGE - 16 to 19 years,0.7
+HC04_EST_VC03,Unemployment rate; Estimate; AGE - 16 to 19 years,23.1
+HC04_MOE_VC03,Unemployment rate; Margin of Error; AGE - 16 to 19 years,0.9
+HC01_EST_VC04,Total; Estimate; AGE - 20 to 24 years,242007
+HC01_MOE_VC04,Total; Margin of Error; AGE - 20 to 24 years,488
+HC02_EST_VC04,Labor Force Participation Rate; Estimate; AGE - 20 to 24 years,76.7
+HC02_MOE_VC04,Labor Force Participation Rate; Margin of Error; AGE - 20 to 24 years,0.8
+HC03_EST_VC04,Employment/Population Ratio; Estimate; AGE - 20 to 24 years,65.8
+HC03_MOE_VC04,Employment/Population Ratio; Margin of Error; AGE - 20 to 24 years,0.8
+HC04_EST_VC04,Unemployment rate; Estimate; AGE - 20 to 24 years,12.9
+HC04_MOE_VC04,Unemployment rate; Margin of Error; AGE - 20 to 24 years,0.6
+HC01_EST_VC05,Total; Estimate; AGE - 25 to 29 years,220316
+HC01_MOE_VC05,Total; Margin of Error; AGE - 25 to 29 years,357
+HC02_EST_VC05,Labor Force Participation Rate; Estimate; AGE - 25 to 29 years,85.3
+HC02_MOE_VC05,Labor Force Participation Rate; Margin of Error; AGE - 25 to 29 years,0.6
+HC03_EST_VC05,Employment/Population Ratio; Estimate; AGE - 25 to 29 years,77.1
+HC03_MOE_VC05,Employment/Population Ratio; Margin of Error; AGE - 25 to 29 years,0.8
+HC04_EST_VC05,Unemployment rate; Estimate; AGE - 25 to 29 years,8.9
+HC04_MOE_VC05,Unemployment rate; Margin of Error; AGE - 25 to 29 years,0.5
+HC01_EST_VC06,Total; Estimate; AGE - 30 to 34 years,218155
+HC01_MOE_VC06,Total; Margin of Error; AGE - 30 to 34 years,430
+HC02_EST_VC06,Labor Force Participation Rate; Estimate; AGE - 30 to 34 years,85.4
+HC02_MOE_VC06,Labor Force Participation Rate; Margin of Error; AGE - 30 to 34 years,0.5
+HC03_EST_VC06,Employment/Population Ratio; Estimate; AGE - 30 to 34 years,78
+HC03_MOE_VC06,Employment/Population Ratio; Margin of Error; AGE - 30 to 34 years,0.7
+HC04_EST_VC06,Unemployment rate; Estimate; AGE - 30 to 34 years,8.2
+HC04_MOE_VC06,Unemployment rate; Margin of Error; AGE - 30 to 34 years,0.5
+HC01_EST_VC07,Total; Estimate; AGE - 35 to 44 years,439606
+HC01_MOE_VC07,Total; Margin of Error; AGE - 35 to 44 years,440
+HC02_EST_VC07,Labor Force Participation Rate; Estimate; AGE - 35 to 44 years,85.5
+HC02_MOE_VC07,Labor Force Participation Rate; Margin of Error; AGE - 35 to 44 years,0.4
+HC03_EST_VC07,Employment/Population Ratio; Estimate; AGE - 35 to 44 years,79.5
+HC03_MOE_VC07,Employment/Population Ratio; Margin of Error; AGE - 35 to 44 years,0.4
+HC04_EST_VC07,Unemployment rate; Estimate; AGE - 35 to 44 years,6.7
+HC04_MOE_VC07,Unemployment rate; Margin of Error; AGE - 35 to 44 years,0.3
+HC01_EST_VC08,Total; Estimate; AGE - 45 to 54 years,545977
+HC01_MOE_VC08,Total; Margin of Error; AGE - 45 to 54 years,391
+HC02_EST_VC08,Labor Force Participation Rate; Estimate; AGE - 45 to 54 years,84.2
+HC02_MOE_VC08,Labor Force Participation Rate; Margin of Error; AGE - 45 to 54 years,0.3
+HC03_EST_VC08,Employment/Population Ratio; Estimate; AGE - 45 to 54 years,78.9
+HC03_MOE_VC08,Employment/Population Ratio; Margin of Error; AGE - 45 to 54 years,0.4
+HC04_EST_VC08,Unemployment rate; Estimate; AGE - 45 to 54 years,6.2
+HC04_MOE_VC08,Unemployment rate; Margin of Error; AGE - 45 to 54 years,0.3
+HC01_EST_VC09,Total; Estimate; AGE - 55 to 59 years,263778
+HC01_MOE_VC09,Total; Margin of Error; AGE - 55 to 59 years,2403
+HC02_EST_VC09,Labor Force Participation Rate; Estimate; AGE - 55 to 59 years,79.6
+HC02_MOE_VC09,Labor Force Participation Rate; Margin of Error; AGE - 55 to 59 years,0.5
+HC03_EST_VC09,Employment/Population Ratio; Estimate; AGE - 55 to 59 years,75
+HC03_MOE_VC09,Employment/Population Ratio; Margin of Error; AGE - 55 to 59 years,0.5
+HC04_EST_VC09,Unemployment rate; Estimate; AGE - 55 to 59 years,5.8
+HC04_MOE_VC09,Unemployment rate; Margin of Error; AGE - 55 to 59 years,0.4
+HC01_EST_VC10,Total; Estimate; AGE - 60 to 64 years,223274
+HC01_MOE_VC10,Total; Margin of Error; AGE - 60 to 64 years,2428
+HC02_EST_VC10,Labor Force Participation Rate; Estimate; AGE - 60 to 64 years,66.3
+HC02_MOE_VC10,Labor Force Participation Rate; Margin of Error; AGE - 60 to 64 years,0.6
+HC03_EST_VC10,Employment/Population Ratio; Estimate; AGE - 60 to 64 years,62.6
+HC03_MOE_VC10,Employment/Population Ratio; Margin of Error; AGE - 60 to 64 years,0.7
+HC04_EST_VC10,Unemployment rate; Estimate; AGE - 60 to 64 years,5.5
+HC04_MOE_VC10,Unemployment rate; Margin of Error; AGE - 60 to 64 years,0.4
+HC01_EST_VC11,Total; Estimate; AGE - 65 to 74 years,303959
+HC01_MOE_VC11,Total; Margin of Error; AGE - 65 to 74 years,276
+HC02_EST_VC11,Labor Force Participation Rate; Estimate; AGE - 65 to 74 years,32.6
+HC02_MOE_VC11,Labor Force Participation Rate; Margin of Error; AGE - 65 to 74 years,0.5
+HC03_EST_VC11,Employment/Population Ratio; Estimate; AGE - 65 to 74 years,30.8
+HC03_MOE_VC11,Employment/Population Ratio; Margin of Error; AGE - 65 to 74 years,0.5
+HC04_EST_VC11,Unemployment rate; Estimate; AGE - 65 to 74 years,5.5
+HC04_MOE_VC11,Unemployment rate; Margin of Error; AGE - 65 to 74 years,0.4
+HC01_EST_VC12,Total; Estimate; AGE - 75 years and over,251064
+HC01_MOE_VC12,Total; Margin of Error; AGE - 75 years and over,255
+HC02_EST_VC12,Labor Force Participation Rate; Estimate; AGE - 75 years and over,7.5
+HC02_MOE_VC12,Labor Force Participation Rate; Margin of Error; AGE - 75 years and over,0.3
+HC03_EST_VC12,Employment/Population Ratio; Estimate; AGE - 75 years and over,7.2
+HC03_MOE_VC12,Employment/Population Ratio; Margin of Error; AGE - 75 years and over,0.3
+HC04_EST_VC12,Unemployment rate; Estimate; AGE - 75 years and over,5.1
+HC04_MOE_VC12,Unemployment rate; Margin of Error; AGE - 75 years and over,1.1
+HC01_EST_VC15,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone,2299717
+HC01_MOE_VC15,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone,3336
+HC02_EST_VC15,Labor Force Participation Rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone,66.6
+HC02_MOE_VC15,Labor Force Participation Rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone,0.2
+HC03_EST_VC15,Employment/Population Ratio; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone,61.9
+HC03_MOE_VC15,Employment/Population Ratio; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone,0.2
+HC04_EST_VC15,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone,6.7
+HC04_MOE_VC15,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone,0.2
+HC01_EST_VC16,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone,290039
+HC01_MOE_VC16,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone,2011
+HC02_EST_VC16,Labor Force Participation Rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone,68.8
+HC02_MOE_VC16,Labor Force Participation Rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone,0.6
+HC03_EST_VC16,Employment/Population Ratio; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone,58.5
+HC03_MOE_VC16,Employment/Population Ratio; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone,0.6
+HC04_EST_VC16,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone,14.6
+HC04_MOE_VC16,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone,0.7
+HC01_EST_VC17,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone,7328
+HC01_MOE_VC17,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone,769
+HC02_EST_VC17,Labor Force Participation Rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone,66.4
+HC02_MOE_VC17,Labor Force Participation Rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone,3.8
+HC03_EST_VC17,Employment/Population Ratio; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone,56.2
+HC03_MOE_VC17,Employment/Population Ratio; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone,3.4
+HC04_EST_VC17,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone,14.1
+HC04_MOE_VC17,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone,3.6
+HC01_EST_VC18,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone,121651
+HC01_MOE_VC18,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone,1061
+HC02_EST_VC18,Labor Force Participation Rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone,69.2
+HC02_MOE_VC18,Labor Force Participation Rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone,0.8
+HC03_EST_VC18,Employment/Population Ratio; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone,64.8
+HC03_MOE_VC18,Employment/Population Ratio; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone,0.8
+HC04_EST_VC18,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone,6.1
+HC04_MOE_VC18,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone,0.7
+HC01_EST_VC19,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone,774
+HC01_MOE_VC19,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone,138
+HC02_EST_VC19,Labor Force Participation Rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone,85.1
+HC02_MOE_VC19,Labor Force Participation Rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone,8.1
+HC03_EST_VC19,Employment/Population Ratio; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone,74.2
+HC03_MOE_VC19,Employment/Population Ratio; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone,10
+HC04_EST_VC19,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone,11.3
+HC04_MOE_VC19,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone,9.4
+HC01_EST_VC20,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone,132893
+HC01_MOE_VC20,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone,3525
+HC02_EST_VC20,Labor Force Participation Rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone,70.9
+HC02_MOE_VC20,Labor Force Participation Rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone,1
+HC03_EST_VC20,Employment/Population Ratio; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone,61.9
+HC03_MOE_VC20,Employment/Population Ratio; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone,1.1
+HC04_EST_VC20,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone,12.6
+HC04_MOE_VC20,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone,0.9
+HC01_EST_VC21,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races,59523
+HC01_MOE_VC21,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races,2007
+HC02_EST_VC21,Labor Force Participation Rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races,69.1
+HC02_MOE_VC21,Labor Force Participation Rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races,1.4
+HC03_EST_VC21,Employment/Population Ratio; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races,58.8
+HC03_MOE_VC21,Employment/Population Ratio; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races,1.6
+HC04_EST_VC21,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races,14.1
+HC04_MOE_VC21,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races,1.5
+HC01_EST_VC23,Total; Estimate; Hispanic or Latino origin (of any race),384399
+HC01_MOE_VC23,Total; Margin of Error; Hispanic or Latino origin (of any race),671
+HC02_EST_VC23,Labor Force Participation Rate; Estimate; Hispanic or Latino origin (of any race),70.1
+HC02_MOE_VC23,Labor Force Participation Rate; Margin of Error; Hispanic or Latino origin (of any race),0.5
+HC03_EST_VC23,Employment/Population Ratio; Estimate; Hispanic or Latino origin (of any race),61.5
+HC03_MOE_VC23,Employment/Population Ratio; Margin of Error; Hispanic or Latino origin (of any race),0.5
+HC04_EST_VC23,Unemployment rate; Estimate; Hispanic or Latino origin (of any race),11.9
+HC04_MOE_VC23,Unemployment rate; Margin of Error; Hispanic or Latino origin (of any race),0.5
+HC01_EST_VC24,"Total; Estimate; White alone, not Hispanic or Latino",2079646
+HC01_MOE_VC24,"Total; Margin of Error; White alone, not Hispanic or Latino",1260
+HC02_EST_VC24,"Labor Force Participation Rate; Estimate; White alone, not Hispanic or Latino",66.3
+HC02_MOE_VC24,"Labor Force Participation Rate; Margin of Error; White alone, not Hispanic or Latino",0.2
+HC03_EST_VC24,"Employment/Population Ratio; Estimate; White alone, not Hispanic or Latino",61.9
+HC03_MOE_VC24,"Employment/Population Ratio; Margin of Error; White alone, not Hispanic or Latino",0.2
+HC04_EST_VC24,"Unemployment rate; Estimate; White alone, not Hispanic or Latino",6.3
+HC04_MOE_VC24,"Unemployment rate; Margin of Error; White alone, not Hispanic or Latino",0.2
+HC01_EST_VC26,Total; Estimate; Population 20 to 64 years,2153113
+HC01_MOE_VC26,Total; Margin of Error; Population 20 to 64 years,481
+HC02_EST_VC26,Labor Force Participation Rate; Estimate; Population 20 to 64 years,81.4
+HC02_MOE_VC26,Labor Force Participation Rate; Margin of Error; Population 20 to 64 years,0.2
+HC03_EST_VC26,Employment/Population Ratio; Estimate; Population 20 to 64 years,75.1
+HC03_MOE_VC26,Employment/Population Ratio; Margin of Error; Population 20 to 64 years,0.2
+HC04_EST_VC26,Unemployment rate; Estimate; Population 20 to 64 years,7.4
+HC04_MOE_VC26,Unemployment rate; Margin of Error; Population 20 to 64 years,0.2
+HC01_EST_VC28,Total; Estimate; Population 20 to 64 years - SEX - Male,1062180
+HC01_MOE_VC28,Total; Margin of Error; Population 20 to 64 years - SEX - Male,392
+HC02_EST_VC28,Labor Force Participation Rate; Estimate; Population 20 to 64 years - SEX - Male,85.4
+HC02_MOE_VC28,Labor Force Participation Rate; Margin of Error; Population 20 to 64 years - SEX - Male,0.2
+HC03_EST_VC28,Employment/Population Ratio; Estimate; Population 20 to 64 years - SEX - Male,78.2
+HC03_MOE_VC28,Employment/Population Ratio; Margin of Error; Population 20 to 64 years - SEX - Male,0.3
+HC04_EST_VC28,Unemployment rate; Estimate; Population 20 to 64 years - SEX - Male,7.8
+HC04_MOE_VC28,Unemployment rate; Margin of Error; Population 20 to 64 years - SEX - Male,0.2
+HC01_EST_VC29,Total; Estimate; Population 20 to 64 years - SEX - Female,1090933
+HC01_MOE_VC29,Total; Margin of Error; Population 20 to 64 years - SEX - Female,330
+HC02_EST_VC29,Labor Force Participation Rate; Estimate; Population 20 to 64 years - SEX - Female,77.5
+HC02_MOE_VC29,Labor Force Participation Rate; Margin of Error; Population 20 to 64 years - SEX - Female,0.3
+HC03_EST_VC29,Employment/Population Ratio; Estimate; Population 20 to 64 years - SEX - Female,72.1
+HC03_MOE_VC29,Employment/Population Ratio; Margin of Error; Population 20 to 64 years - SEX - Female,0.3
+HC04_EST_VC29,Unemployment rate; Estimate; Population 20 to 64 years - SEX - Female,6.9
+HC04_MOE_VC29,Unemployment rate; Margin of Error; Population 20 to 64 years - SEX - Female,0.2
+HC01_EST_VC30,Total; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years,383196
+HC01_MOE_VC30,Total; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years,3317
+HC02_EST_VC30,Labor Force Participation Rate; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years,77.8
+HC02_MOE_VC30,Labor Force Participation Rate; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years,0.5
+HC03_EST_VC30,Employment/Population Ratio; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years,72
+HC03_MOE_VC30,Employment/Population Ratio; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years,0.6
+HC04_EST_VC30,Unemployment rate; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years,7.4
+HC04_MOE_VC30,Unemployment rate; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years,0.4
+HC01_EST_VC31,Total; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years only,81998
+HC01_MOE_VC31,Total; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years only,2145
+HC02_EST_VC31,Labor Force Participation Rate; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years only,75.1
+HC02_MOE_VC31,Labor Force Participation Rate; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years only,1.1
+HC03_EST_VC31,Employment/Population Ratio; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years only,69.6
+HC03_MOE_VC31,Employment/Population Ratio; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years only,1.2
+HC04_EST_VC31,Unemployment rate; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years only,7.2
+HC04_MOE_VC31,Unemployment rate; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years only,0.7
+HC01_EST_VC32,Total; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years and 6 to 17 years,66175
+HC01_MOE_VC32,Total; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years and 6 to 17 years,1603
+HC02_EST_VC32,Labor Force Participation Rate; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years and 6 to 17 years,71.3
+HC02_MOE_VC32,Labor Force Participation Rate; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years and 6 to 17 years,1.4
+HC03_EST_VC32,Employment/Population Ratio; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years and 6 to 17 years,63.7
+HC03_MOE_VC32,Employment/Population Ratio; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years and 6 to 17 years,1.5
+HC04_EST_VC32,Unemployment rate; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years and 6 to 17 years,10.6
+HC04_MOE_VC32,Unemployment rate; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 years and 6 to 17 years,1.1
+HC01_EST_VC33,Total; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 to 17 years only,235023
+HC01_MOE_VC33,Total; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 to 17 years only,2743
+HC02_EST_VC33,Labor Force Participation Rate; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 to 17 years only,80.6
+HC02_MOE_VC33,Labor Force Participation Rate; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 to 17 years only,0.6
+HC03_EST_VC33,Employment/Population Ratio; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 to 17 years only,75.2
+HC03_MOE_VC33,Employment/Population Ratio; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 to 17 years only,0.7
+HC04_EST_VC33,Unemployment rate; Estimate; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 to 17 years only,6.7
+HC04_MOE_VC33,Unemployment rate; Margin of Error; Population 20 to 64 years - SEX - Female - With own children under 18 years - With own children under 6 to 17 years only,0.4
+HC01_EST_VC36,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level,203830
+HC01_MOE_VC36,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level,4261
+HC02_EST_VC36,Labor Force Participation Rate; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level,52.2
+HC02_MOE_VC36,Labor Force Participation Rate; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level,0.9
+HC03_EST_VC36,Employment/Population Ratio; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level,34.4
+HC03_MOE_VC36,Employment/Population Ratio; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level,0.9
+HC04_EST_VC36,Unemployment rate; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level,34
+HC04_MOE_VC36,Unemployment rate; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level,1.2
+HC01_EST_VC37,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - At or above the poverty level,1900512
+HC01_MOE_VC37,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - At or above the poverty level,4272
+HC02_EST_VC37,Labor Force Participation Rate; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - At or above the poverty level,85.9
+HC02_MOE_VC37,Labor Force Participation Rate; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - At or above the poverty level,0.2
+HC03_EST_VC37,Employment/Population Ratio; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - At or above the poverty level,80.8
+HC03_MOE_VC37,Employment/Population Ratio; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - At or above the poverty level,0.2
+HC04_EST_VC37,Unemployment rate; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - At or above the poverty level,5.7
+HC04_MOE_VC37,Unemployment rate; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - At or above the poverty level,0.1
+HC01_EST_VC40,Total; Estimate; DISABILITY STATUS - With any disability,178785
+HC01_MOE_VC40,Total; Margin of Error; DISABILITY STATUS - With any disability,2915
+HC02_EST_VC40,Labor Force Participation Rate; Estimate; DISABILITY STATUS - With any disability,47.7
+HC02_MOE_VC40,Labor Force Participation Rate; Margin of Error; DISABILITY STATUS - With any disability,1
+HC03_EST_VC40,Employment/Population Ratio; Estimate; DISABILITY STATUS - With any disability,39.6
+HC03_MOE_VC40,Employment/Population Ratio; Margin of Error; DISABILITY STATUS - With any disability,0.9
+HC04_EST_VC40,Unemployment rate; Estimate; DISABILITY STATUS - With any disability,16.9
+HC04_MOE_VC40,Unemployment rate; Margin of Error; DISABILITY STATUS - With any disability,0.8
+HC01_EST_VC43,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years,1911106
+HC01_MOE_VC43,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years,460
+HC02_EST_VC43,Labor Force Participation Rate; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years,82
+HC02_MOE_VC43,Labor Force Participation Rate; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years,0.2
+HC03_EST_VC43,Employment/Population Ratio; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years,76.3
+HC03_MOE_VC43,Employment/Population Ratio; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years,0.2
+HC04_EST_VC43,Unemployment rate; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years,6.7
+HC04_MOE_VC43,Unemployment rate; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years,0.2
+HC01_EST_VC44,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Less than high school graduate,152064
+HC01_MOE_VC44,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Less than high school graduate,3172
+HC02_EST_VC44,Labor Force Participation Rate; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Less than high school graduate,63.8
+HC02_MOE_VC44,Labor Force Participation Rate; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Less than high school graduate,0.9
+HC03_EST_VC44,Employment/Population Ratio; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Less than high school graduate,54.5
+HC03_MOE_VC44,Employment/Population Ratio; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Less than high school graduate,0.9
+HC04_EST_VC44,Unemployment rate; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Less than high school graduate,14.6
+HC04_MOE_VC44,Unemployment rate; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Less than high school graduate,0.8
+HC01_EST_VC45,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - High school graduate (includes equivalency),489991
+HC01_MOE_VC45,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - High school graduate (includes equivalency),4778
+HC02_EST_VC45,Labor Force Participation Rate; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - High school graduate (includes equivalency),78.1
+HC02_MOE_VC45,Labor Force Participation Rate; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - High school graduate (includes equivalency),0.4
+HC03_EST_VC45,Employment/Population Ratio; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - High school graduate (includes equivalency),70.5
+HC03_MOE_VC45,Employment/Population Ratio; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - High school graduate (includes equivalency),0.5
+HC04_EST_VC45,Unemployment rate; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - High school graduate (includes equivalency),9.6
+HC04_MOE_VC45,Unemployment rate; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - High school graduate (includes equivalency),0.3
+HC01_EST_VC46,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Some college or associate's degree,498202
+HC01_MOE_VC46,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Some college or associate's degree,4771
+HC02_EST_VC46,Labor Force Participation Rate; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Some college or associate's degree,83.5
+HC02_MOE_VC46,Labor Force Participation Rate; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Some college or associate's degree,0.3
+HC03_EST_VC46,Employment/Population Ratio; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Some college or associate's degree,77.1
+HC03_MOE_VC46,Employment/Population Ratio; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Some college or associate's degree,0.4
+HC04_EST_VC46,Unemployment rate; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Some college or associate's degree,7.2
+HC04_MOE_VC46,Unemployment rate; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Some college or associate's degree,0.3
+HC01_EST_VC47,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Bachelor's degree or higher,770849
+HC01_MOE_VC47,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Bachelor's degree or higher,5964
+HC02_EST_VC47,Labor Force Participation Rate; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Bachelor's degree or higher,87.2
+HC02_MOE_VC47,Labor Force Participation Rate; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Bachelor's degree or higher,0.2
+HC03_EST_VC47,Employment/Population Ratio; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Bachelor's degree or higher,83.8
+HC03_MOE_VC47,Employment/Population Ratio; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Bachelor's degree or higher,0.3
+HC04_EST_VC47,Unemployment rate; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Bachelor's degree or higher,3.7
+HC04_MOE_VC47,Unemployment rate; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years - Bachelor's degree or higher,0.2

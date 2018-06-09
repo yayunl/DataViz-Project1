@@ -1,0 +1,375 @@
+GEO.id,Id,0500000US09003
+GEO.id2,Id2,9003
+GEO.display-label,Geography,"Hartford County, Connecticut"
+HD01_S001,Number; SEX AND AGE - Total population,894014
+HD02_S001,Percent; SEX AND AGE - Total population,100
+HD01_S002,Number; SEX AND AGE - Total population - Under 5 years,50688
+HD02_S002,Percent; SEX AND AGE - Total population - Under 5 years,5.7
+HD01_S003,Number; SEX AND AGE - Total population - 5 to 9 years,55456
+HD02_S003,Percent; SEX AND AGE - Total population - 5 to 9 years,6.2
+HD01_S004,Number; SEX AND AGE - Total population - 10 to 14 years,59734
+HD02_S004,Percent; SEX AND AGE - Total population - 10 to 14 years,6.7
+HD01_S005,Number; SEX AND AGE - Total population - 15 to 19 years,61684
+HD02_S005,Percent; SEX AND AGE - Total population - 15 to 19 years,6.9
+HD01_S006,Number; SEX AND AGE - Total population - 20 to 24 years,55702
+HD02_S006,Percent; SEX AND AGE - Total population - 20 to 24 years,6.2
+HD01_S007,Number; SEX AND AGE - Total population - 25 to 29 years,56690
+HD02_S007,Percent; SEX AND AGE - Total population - 25 to 29 years,6.3
+HD01_S008,Number; SEX AND AGE - Total population - 30 to 34 years,52995
+HD02_S008,Percent; SEX AND AGE - Total population - 30 to 34 years,5.9
+HD01_S009,Number; SEX AND AGE - Total population - 35 to 39 years,55386
+HD02_S009,Percent; SEX AND AGE - Total population - 35 to 39 years,6.2
+HD01_S010,Number; SEX AND AGE - Total population - 40 to 44 years,63410
+HD02_S010,Percent; SEX AND AGE - Total population - 40 to 44 years,7.1
+HD01_S011,Number; SEX AND AGE - Total population - 45 to 49 years,71246
+HD02_S011,Percent; SEX AND AGE - Total population - 45 to 49 years,8
+HD01_S012,Number; SEX AND AGE - Total population - 50 to 54 years,70008
+HD02_S012,Percent; SEX AND AGE - Total population - 50 to 54 years,7.8
+HD01_S013,Number; SEX AND AGE - Total population - 55 to 59 years,59788
+HD02_S013,Percent; SEX AND AGE - Total population - 55 to 59 years,6.7
+HD01_S014,Number; SEX AND AGE - Total population - 60 to 64 years,51108
+HD02_S014,Percent; SEX AND AGE - Total population - 60 to 64 years,5.7
+HD01_S015,Number; SEX AND AGE - Total population - 65 to 69 years,36833
+HD02_S015,Percent; SEX AND AGE - Total population - 65 to 69 years,4.1
+HD01_S016,Number; SEX AND AGE - Total population - 70 to 74 years,26920
+HD02_S016,Percent; SEX AND AGE - Total population - 70 to 74 years,3
+HD01_S017,Number; SEX AND AGE - Total population - 75 to 79 years,23251
+HD02_S017,Percent; SEX AND AGE - Total population - 75 to 79 years,2.6
+HD01_S018,Number; SEX AND AGE - Total population - 80 to 84 years,20378
+HD02_S018,Percent; SEX AND AGE - Total population - 80 to 84 years,2.3
+HD01_S019,Number; SEX AND AGE - Total population - 85 years and over,22737
+HD02_S019,Percent; SEX AND AGE - Total population - 85 years and over,2.5
+HD01_S020,Number; SEX AND AGE - Total population - Median age (years),39.9
+HD02_S020,Percent; SEX AND AGE - Total population - Median age (years), ( X ) 
+HD01_S021,Number; SEX AND AGE - Total population - 16 years and over,715774
+HD02_S021,Percent; SEX AND AGE - Total population - 16 years and over,80.1
+HD01_S022,Number; SEX AND AGE - Total population - 18 years and over,689971
+HD02_S022,Percent; SEX AND AGE - Total population - 18 years and over,77.2
+HD01_S023,Number; SEX AND AGE - Total population - 21 years and over,655285
+HD02_S023,Percent; SEX AND AGE - Total population - 21 years and over,73.3
+HD01_S024,Number; SEX AND AGE - Total population - 62 years and over,160000
+HD02_S024,Percent; SEX AND AGE - Total population - 62 years and over,17.9
+HD01_S025,Number; SEX AND AGE - Total population - 65 years and over,130119
+HD02_S025,Percent; SEX AND AGE - Total population - 65 years and over,14.6
+HD01_S026,Number; SEX AND AGE - Male population,432013
+HD02_S026,Percent; SEX AND AGE - Male population,48.3
+HD01_S027,Number; SEX AND AGE - Male population - Under 5 years,25613
+HD02_S027,Percent; SEX AND AGE - Male population - Under 5 years,2.9
+HD01_S028,Number; SEX AND AGE - Male population - 5 to 9 years,28432
+HD02_S028,Percent; SEX AND AGE - Male population - 5 to 9 years,3.2
+HD01_S029,Number; SEX AND AGE - Male population - 10 to 14 years,30440
+HD02_S029,Percent; SEX AND AGE - Male population - 10 to 14 years,3.4
+HD01_S030,Number; SEX AND AGE - Male population - 15 to 19 years,31912
+HD02_S030,Percent; SEX AND AGE - Male population - 15 to 19 years,3.6
+HD01_S031,Number; SEX AND AGE - Male population - 20 to 24 years,28358
+HD02_S031,Percent; SEX AND AGE - Male population - 20 to 24 years,3.2
+HD01_S032,Number; SEX AND AGE - Male population - 25 to 29 years,28355
+HD02_S032,Percent; SEX AND AGE - Male population - 25 to 29 years,3.2
+HD01_S033,Number; SEX AND AGE - Male population - 30 to 34 years,26227
+HD02_S033,Percent; SEX AND AGE - Male population - 30 to 34 years,2.9
+HD01_S034,Number; SEX AND AGE - Male population - 35 to 39 years,27037
+HD02_S034,Percent; SEX AND AGE - Male population - 35 to 39 years,3
+HD01_S035,Number; SEX AND AGE - Male population - 40 to 44 years,30952
+HD02_S035,Percent; SEX AND AGE - Male population - 40 to 44 years,3.5
+HD01_S036,Number; SEX AND AGE - Male population - 45 to 49 years,34451
+HD02_S036,Percent; SEX AND AGE - Male population - 45 to 49 years,3.9
+HD01_S037,Number; SEX AND AGE - Male population - 50 to 54 years,33980
+HD02_S037,Percent; SEX AND AGE - Male population - 50 to 54 years,3.8
+HD01_S038,Number; SEX AND AGE - Male population - 55 to 59 years,28661
+HD02_S038,Percent; SEX AND AGE - Male population - 55 to 59 years,3.2
+HD01_S039,Number; SEX AND AGE - Male population - 60 to 64 years,24007
+HD02_S039,Percent; SEX AND AGE - Male population - 60 to 64 years,2.7
+HD01_S040,Number; SEX AND AGE - Male population - 65 to 69 years,17100
+HD02_S040,Percent; SEX AND AGE - Male population - 65 to 69 years,1.9
+HD01_S041,Number; SEX AND AGE - Male population - 70 to 74 years,11883
+HD02_S041,Percent; SEX AND AGE - Male population - 70 to 74 years,1.3
+HD01_S042,Number; SEX AND AGE - Male population - 75 to 79 years,9544
+HD02_S042,Percent; SEX AND AGE - Male population - 75 to 79 years,1.1
+HD01_S043,Number; SEX AND AGE - Male population - 80 to 84 years,7831
+HD02_S043,Percent; SEX AND AGE - Male population - 80 to 84 years,0.9
+HD01_S044,Number; SEX AND AGE - Male population - 85 years and over,7230
+HD02_S044,Percent; SEX AND AGE - Male population - 85 years and over,0.8
+HD01_S045,Number; SEX AND AGE - Male population - Median age (years),38.2
+HD02_S045,Percent; SEX AND AGE - Male population - Median age (years), ( X ) 
+HD01_S046,Number; SEX AND AGE - Male population - 16 years and over,341177
+HD02_S046,Percent; SEX AND AGE - Male population - 16 years and over,38.2
+HD01_S047,Number; SEX AND AGE - Male population - 18 years and over,327883
+HD02_S047,Percent; SEX AND AGE - Male population - 18 years and over,36.7
+HD01_S048,Number; SEX AND AGE - Male population - 21 years and over,309834
+HD02_S048,Percent; SEX AND AGE - Male population - 21 years and over,34.7
+HD01_S049,Number; SEX AND AGE - Male population - 62 years and over,67609
+HD02_S049,Percent; SEX AND AGE - Male population - 62 years and over,7.6
+HD01_S050,Number; SEX AND AGE - Male population - 65 years and over,53588
+HD02_S050,Percent; SEX AND AGE - Male population - 65 years and over,6
+HD01_S051,Number; SEX AND AGE - Female population,462001
+HD02_S051,Percent; SEX AND AGE - Female population,51.7
+HD01_S052,Number; SEX AND AGE - Female population - Under 5 years,25075
+HD02_S052,Percent; SEX AND AGE - Female population - Under 5 years,2.8
+HD01_S053,Number; SEX AND AGE - Female population - 5 to 9 years,27024
+HD02_S053,Percent; SEX AND AGE - Female population - 5 to 9 years,3
+HD01_S054,Number; SEX AND AGE - Female population - 10 to 14 years,29294
+HD02_S054,Percent; SEX AND AGE - Female population - 10 to 14 years,3.3
+HD01_S055,Number; SEX AND AGE - Female population - 15 to 19 years,29772
+HD02_S055,Percent; SEX AND AGE - Female population - 15 to 19 years,3.3
+HD01_S056,Number; SEX AND AGE - Female population - 20 to 24 years,27344
+HD02_S056,Percent; SEX AND AGE - Female population - 20 to 24 years,3.1
+HD01_S057,Number; SEX AND AGE - Female population - 25 to 29 years,28335
+HD02_S057,Percent; SEX AND AGE - Female population - 25 to 29 years,3.2
+HD01_S058,Number; SEX AND AGE - Female population - 30 to 34 years,26768
+HD02_S058,Percent; SEX AND AGE - Female population - 30 to 34 years,3
+HD01_S059,Number; SEX AND AGE - Female population - 35 to 39 years,28349
+HD02_S059,Percent; SEX AND AGE - Female population - 35 to 39 years,3.2
+HD01_S060,Number; SEX AND AGE - Female population - 40 to 44 years,32458
+HD02_S060,Percent; SEX AND AGE - Female population - 40 to 44 years,3.6
+HD01_S061,Number; SEX AND AGE - Female population - 45 to 49 years,36795
+HD02_S061,Percent; SEX AND AGE - Female population - 45 to 49 years,4.1
+HD01_S062,Number; SEX AND AGE - Female population - 50 to 54 years,36028
+HD02_S062,Percent; SEX AND AGE - Female population - 50 to 54 years,4
+HD01_S063,Number; SEX AND AGE - Female population - 55 to 59 years,31127
+HD02_S063,Percent; SEX AND AGE - Female population - 55 to 59 years,3.5
+HD01_S064,Number; SEX AND AGE - Female population - 60 to 64 years,27101
+HD02_S064,Percent; SEX AND AGE - Female population - 60 to 64 years,3
+HD01_S065,Number; SEX AND AGE - Female population - 65 to 69 years,19733
+HD02_S065,Percent; SEX AND AGE - Female population - 65 to 69 years,2.2
+HD01_S066,Number; SEX AND AGE - Female population - 70 to 74 years,15037
+HD02_S066,Percent; SEX AND AGE - Female population - 70 to 74 years,1.7
+HD01_S067,Number; SEX AND AGE - Female population - 75 to 79 years,13707
+HD02_S067,Percent; SEX AND AGE - Female population - 75 to 79 years,1.5
+HD01_S068,Number; SEX AND AGE - Female population - 80 to 84 years,12547
+HD02_S068,Percent; SEX AND AGE - Female population - 80 to 84 years,1.4
+HD01_S069,Number; SEX AND AGE - Female population - 85 years and over,15507
+HD02_S069,Percent; SEX AND AGE - Female population - 85 years and over,1.7
+HD01_S070,Number; SEX AND AGE - Female population - Median age (years),41.4
+HD02_S070,Percent; SEX AND AGE - Female population - Median age (years), ( X ) 
+HD01_S071,Number; SEX AND AGE - Female population - 16 years and over,374597
+HD02_S071,Percent; SEX AND AGE - Female population - 16 years and over,41.9
+HD01_S072,Number; SEX AND AGE - Female population - 18 years and over,362088
+HD02_S072,Percent; SEX AND AGE - Female population - 18 years and over,40.5
+HD01_S073,Number; SEX AND AGE - Female population - 21 years and over,345451
+HD02_S073,Percent; SEX AND AGE - Female population - 21 years and over,38.6
+HD01_S074,Number; SEX AND AGE - Female population - 62 years and over,92391
+HD02_S074,Percent; SEX AND AGE - Female population - 62 years and over,10.3
+HD01_S075,Number; SEX AND AGE - Female population - 65 years and over,76531
+HD02_S075,Percent; SEX AND AGE - Female population - 65 years and over,8.6
+HD01_S076,Number; RACE - Total population,894014
+HD02_S076,Percent; RACE - Total population,100
+HD01_S077,Number; RACE - Total population - One Race,870120
+HD02_S077,Percent; RACE - Total population - One Race,97.3
+HD01_S078,Number; RACE - Total population - One Race - White,647237
+HD02_S078,Percent; RACE - Total population - One Race - White,72.4
+HD01_S079,Number; RACE - Total population - One Race - Black or African American,119191
+HD02_S079,Percent; RACE - Total population - One Race - Black or African American,13.3
+HD01_S080,Number; RACE - Total population - One Race - American Indian and Alaska Native,2387
+HD02_S080,Percent; RACE - Total population - One Race - American Indian and Alaska Native,0.3
+HD01_S081,Number; RACE - Total population - One Race - Asian,37958
+HD02_S081,Percent; RACE - Total population - One Race - Asian,4.2
+HD01_S082,Number; RACE - Total population - One Race - Asian - Asian Indian,15788
+HD02_S082,Percent; RACE - Total population - One Race - Asian - Asian Indian,1.8
+HD01_S083,Number; RACE - Total population - One Race - Asian - Chinese,5840
+HD02_S083,Percent; RACE - Total population - One Race - Asian - Chinese,0.7
+HD01_S084,Number; RACE - Total population - One Race - Asian - Filipino,2130
+HD02_S084,Percent; RACE - Total population - One Race - Asian - Filipino,0.2
+HD01_S085,Number; RACE - Total population - One Race - Asian - Japanese,506
+HD02_S085,Percent; RACE - Total population - One Race - Asian - Japanese,0.1
+HD01_S086,Number; RACE - Total population - One Race - Asian - Korean,2387
+HD02_S086,Percent; RACE - Total population - One Race - Asian - Korean,0.3
+HD01_S087,Number; RACE - Total population - One Race - Asian - Vietnamese,4117
+HD02_S087,Percent; RACE - Total population - One Race - Asian - Vietnamese,0.5
+HD01_S088,Number; RACE - Total population - One Race - Asian - Other Asian [1],7190
+HD02_S088,Percent; RACE - Total population - One Race - Asian - Other Asian [1],0.8
+HD01_S089,Number; RACE - Total population - One Race - Native Hawaiian and Other Pacific Islander,289
+HD02_S089,Percent; RACE - Total population - One Race - Native Hawaiian and Other Pacific Islander,0
+HD01_S090,Number; RACE - Total population - One Race - Native Hawaiian and Other Pacific Islander - Native Hawaiian,63
+HD02_S090,Percent; RACE - Total population - One Race - Native Hawaiian and Other Pacific Islander - Native Hawaiian,0
+HD01_S091,Number; RACE - Total population - One Race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro,69
+HD02_S091,Percent; RACE - Total population - One Race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro,0
+HD01_S092,Number; RACE - Total population - One Race - Native Hawaiian and Other Pacific Islander - Samoan,32
+HD02_S092,Percent; RACE - Total population - One Race - Native Hawaiian and Other Pacific Islander - Samoan,0
+HD01_S093,Number; RACE - Total population - One Race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander [2],125
+HD02_S093,Percent; RACE - Total population - One Race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander [2],0
+HD01_S094,Number; RACE - Total population - One Race - Some Other Race,63058
+HD02_S094,Percent; RACE - Total population - One Race - Some Other Race,7.1
+HD01_S095,Number; RACE - Total population - Two or More Races,23894
+HD02_S095,Percent; RACE - Total population - Two or More Races,2.7
+HD01_S096,Number; RACE - Total population - Two or More Races - White; American Indian and Alaska Native [3],1997
+HD02_S096,Percent; RACE - Total population - Two or More Races - White; American Indian and Alaska Native [3],0.2
+HD01_S097,Number; RACE - Total population - Two or More Races - White; Asian [3],3345
+HD02_S097,Percent; RACE - Total population - Two or More Races - White; Asian [3],0.4
+HD01_S098,Number; RACE - Total population - Two or More Races - White; Black or African American [3],6685
+HD02_S098,Percent; RACE - Total population - Two or More Races - White; Black or African American [3],0.7
+HD01_S099,Number; RACE - Total population - Two or More Races - White; Some Other Race [3],4234
+HD02_S099,Percent; RACE - Total population - Two or More Races - White; Some Other Race [3],0.5
+HD01_S100,Number; RACE - Race alone or in combination with one or more other races: [4] - White,665465
+HD02_S100,Percent; RACE - Race alone or in combination with one or more other races: [4] - White,74.4
+HD01_S101,Number; RACE - Race alone or in combination with one or more other races: [4] - Black or African American,131281
+HD02_S101,Percent; RACE - Race alone or in combination with one or more other races: [4] - Black or African American,14.7
+HD01_S102,Number; RACE - Race alone or in combination with one or more other races: [4] - American Indian and Alaska Native,7073
+HD02_S102,Percent; RACE - Race alone or in combination with one or more other races: [4] - American Indian and Alaska Native,0.8
+HD01_S103,Number; RACE - Race alone or in combination with one or more other races: [4] - Asian,43403
+HD02_S103,Percent; RACE - Race alone or in combination with one or more other races: [4] - Asian,4.9
+HD01_S104,Number; RACE - Race alone or in combination with one or more other races: [4] - Native Hawaiian and Other Pacific Islander,1370
+HD02_S104,Percent; RACE - Race alone or in combination with one or more other races: [4] - Native Hawaiian and Other Pacific Islander,0.2
+HD01_S105,Number; RACE - Race alone or in combination with one or more other races: [4] - Some Other Race,71415
+HD02_S105,Percent; RACE - Race alone or in combination with one or more other races: [4] - Some Other Race,8
+HD01_S106,Number; HISPANIC OR LATINO - Total population,894014
+HD02_S106,Percent; HISPANIC OR LATINO - Total population,100
+HD01_S107,Number; HISPANIC OR LATINO - Total population - Hispanic or Latino (of any race),136783
+HD02_S107,Percent; HISPANIC OR LATINO - Total population - Hispanic or Latino (of any race),15.3
+HD01_S108,Number; HISPANIC OR LATINO - Total population - Hispanic or Latino (of any race) - Mexican,7575
+HD02_S108,Percent; HISPANIC OR LATINO - Total population - Hispanic or Latino (of any race) - Mexican,0.8
+HD01_S109,Number; HISPANIC OR LATINO - Total population - Hispanic or Latino (of any race) - Puerto Rican,95964
+HD02_S109,Percent; HISPANIC OR LATINO - Total population - Hispanic or Latino (of any race) - Puerto Rican,10.7
+HD01_S110,Number; HISPANIC OR LATINO - Total population - Hispanic or Latino (of any race) - Cuban,2520
+HD02_S110,Percent; HISPANIC OR LATINO - Total population - Hispanic or Latino (of any race) - Cuban,0.3
+HD01_S111,Number; HISPANIC OR LATINO - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino [5],30724
+HD02_S111,Percent; HISPANIC OR LATINO - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino [5],3.4
+HD01_S112,Number; HISPANIC OR LATINO - Total population - Not Hispanic or Latino,757231
+HD02_S112,Percent; HISPANIC OR LATINO - Total population - Not Hispanic or Latino,84.7
+HD01_S113,Number; HISPANIC OR LATINO AND RACE - Total population,894014
+HD02_S113,Percent; HISPANIC OR LATINO AND RACE - Total population,100
+HD01_S114,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino,136783
+HD02_S114,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino,15.3
+HD01_S115,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - White alone,55954
+HD02_S115,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - White alone,6.3
+HD01_S116,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - Black or African American alone,9186
+HD02_S116,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - Black or African American alone,1
+HD01_S117,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - American Indian and Alaska Native alone,1115
+HD02_S117,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - American Indian and Alaska Native alone,0.1
+HD01_S118,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - Asian alone,377
+HD02_S118,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - Asian alone,0
+HD01_S119,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone,103
+HD02_S119,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone,0
+HD01_S120,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - Some Other Race alone,60770
+HD02_S120,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - Some Other Race alone,6.8
+HD01_S121,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - Two or More Races,9278
+HD02_S121,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino - Two or More Races,1
+HD01_S122,Number; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino,757231
+HD02_S122,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino,84.7
+HD01_S123,Number; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone,591283
+HD02_S123,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone,66.1
+HD01_S124,Number; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone,110005
+HD02_S124,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone,12.3
+HD01_S125,Number; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone,1272
+HD02_S125,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone,0.1
+HD01_S126,Number; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone,37581
+HD02_S126,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone,4.2
+HD01_S127,Number; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone,186
+HD02_S127,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone,0
+HD01_S128,Number; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some Other Race alone,2288
+HD02_S128,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some Other Race alone,0.3
+HD01_S129,Number; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or More Races,14616
+HD02_S129,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or More Races,1.6
+HD01_S130,Number; RELATIONSHIP - Total population,894014
+HD02_S130,Percent; RELATIONSHIP - Total population,100
+HD01_S131,Number; RELATIONSHIP - Total population - In households,865787
+HD02_S131,Percent; RELATIONSHIP - Total population - In households,96.8
+HD01_S132,Number; RELATIONSHIP - Total population - In households - Householder,350854
+HD02_S132,Percent; RELATIONSHIP - Total population - In households - Householder,39.2
+HD01_S133,Number; RELATIONSHIP - Total population - In households - Spouse [6],161327
+HD02_S133,Percent; RELATIONSHIP - Total population - In households - Spouse [6],18
+HD01_S134,Number; RELATIONSHIP - Total population - In households - Child,258438
+HD02_S134,Percent; RELATIONSHIP - Total population - In households - Child,28.9
+HD01_S135,Number; RELATIONSHIP - Total population - In households - Child - Own child under 18 years,184254
+HD02_S135,Percent; RELATIONSHIP - Total population - In households - Child - Own child under 18 years,20.6
+HD01_S136,Number; RELATIONSHIP - Total population - In households - Other relatives,48792
+HD02_S136,Percent; RELATIONSHIP - Total population - In households - Other relatives,5.5
+HD01_S137,Number; RELATIONSHIP - Total population - In households - Other relatives - Under 18 years,16578
+HD02_S137,Percent; RELATIONSHIP - Total population - In households - Other relatives - Under 18 years,1.9
+HD01_S138,Number; RELATIONSHIP - Total population - In households - Other relatives - 65 years and over,9297
+HD02_S138,Percent; RELATIONSHIP - Total population - In households - Other relatives - 65 years and over,1
+HD01_S139,Number; RELATIONSHIP - Total population - In households - Nonrelatives,46376
+HD02_S139,Percent; RELATIONSHIP - Total population - In households - Nonrelatives,5.2
+HD01_S140,Number; RELATIONSHIP - Total population - In households - Nonrelatives - Under 18 years,2492
+HD02_S140,Percent; RELATIONSHIP - Total population - In households - Nonrelatives - Under 18 years,0.3
+HD01_S141,Number; RELATIONSHIP - Total population - In households - Nonrelatives - 65 years and over,2397
+HD02_S141,Percent; RELATIONSHIP - Total population - In households - Nonrelatives - 65 years and over,0.3
+HD01_S142,Number; RELATIONSHIP - Total population - In households - Nonrelatives - Unmarried partner,23922
+HD02_S142,Percent; RELATIONSHIP - Total population - In households - Nonrelatives - Unmarried partner,2.7
+HD01_S143,Number; RELATIONSHIP - Total population - In group quarters,28227
+HD02_S143,Percent; RELATIONSHIP - Total population - In group quarters,3.2
+HD01_S144,Number; RELATIONSHIP - Total population - In group quarters - Institutionalized population,15383
+HD02_S144,Percent; RELATIONSHIP - Total population - In group quarters - Institutionalized population,1.7
+HD01_S145,Number; RELATIONSHIP - Total population - In group quarters - Institutionalized population - Male,9765
+HD02_S145,Percent; RELATIONSHIP - Total population - In group quarters - Institutionalized population - Male,1.1
+HD01_S146,Number; RELATIONSHIP - Total population - In group quarters - Institutionalized population - Female,5618
+HD02_S146,Percent; RELATIONSHIP - Total population - In group quarters - Institutionalized population - Female,0.6
+HD01_S147,Number; RELATIONSHIP - Total population - In group quarters - Noninstitutionalized population,12844
+HD02_S147,Percent; RELATIONSHIP - Total population - In group quarters - Noninstitutionalized population,1.4
+HD01_S148,Number; RELATIONSHIP - Total population - In group quarters - Noninstitutionalized population - Male,6814
+HD02_S148,Percent; RELATIONSHIP - Total population - In group quarters - Noninstitutionalized population - Male,0.8
+HD01_S149,Number; RELATIONSHIP - Total population - In group quarters - Noninstitutionalized population - Female,6030
+HD02_S149,Percent; RELATIONSHIP - Total population - In group quarters - Noninstitutionalized population - Female,0.7
+HD01_S150,Number; HOUSEHOLDS BY TYPE - Total households,350854
+HD02_S150,Percent; HOUSEHOLDS BY TYPE - Total households,100
+HD01_S151,Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7],227831
+HD02_S151,Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7],64.9
+HD01_S152,Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - With own children under 18 years,102229
+HD02_S152,Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - With own children under 18 years,29.1
+HD01_S153,Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Husband-wife family,161327
+HD02_S153,Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Husband-wife family,46
+HD01_S154,Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Husband-wife family - With own children under 18 years,66896
+HD02_S154,Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Husband-wife family - With own children under 18 years,19.1
+HD01_S155,"Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Male householder, no wife present",15596
+HD02_S155,"Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Male householder, no wife present",4.4
+HD01_S156,"Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Male householder, no wife present - With own children under 18 years",6928
+HD02_S156,"Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Male householder, no wife present - With own children under 18 years",2
+HD01_S157,"Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Female householder, no husband present",50908
+HD02_S157,"Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Female householder, no husband present",14.5
+HD01_S158,"Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Female householder, no husband present - With own children under 18 years",28405
+HD02_S158,"Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Female householder, no husband present - With own children under 18 years",8.1
+HD01_S159,Number; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7],123023
+HD02_S159,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7],35.1
+HD01_S160,Number; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7] - Householder living alone,100524
+HD02_S160,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7] - Householder living alone,28.7
+HD01_S161,Number; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7] - Householder living alone - Male,41831
+HD02_S161,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7] - Householder living alone - Male,11.9
+HD01_S162,Number; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7] - Householder living alone - Male - 65 years and over,10497
+HD02_S162,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7] - Householder living alone - Male - 65 years and over,3
+HD01_S163,Number; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7] - Householder living alone - Female,58693
+HD02_S163,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7] - Householder living alone - Female,16.7
+HD01_S164,Number; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7] - Householder living alone - Female - 65 years and over,28185
+HD02_S164,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households [7] - Householder living alone - Female - 65 years and over,8
+HD01_S165,Number; HOUSEHOLDS BY TYPE - Total households - Households with individuals under 18 years,111922
+HD02_S165,Percent; HOUSEHOLDS BY TYPE - Total households - Households with individuals under 18 years,31.9
+HD01_S166,Number; HOUSEHOLDS BY TYPE - Total households - Households with individuals 65 years and over,92984
+HD02_S166,Percent; HOUSEHOLDS BY TYPE - Total households - Households with individuals 65 years and over,26.5
+HD01_S167,Number; HOUSEHOLDS BY TYPE - Total households - Average household size,2.47
+HD02_S167,Percent; HOUSEHOLDS BY TYPE - Total households - Average household size, ( X ) 
+HD01_S168,Number; HOUSEHOLDS BY TYPE - Total households - Average family size [7],3.06
+HD02_S168,Percent; HOUSEHOLDS BY TYPE - Total households - Average family size [7], ( X ) 
+HD01_S169,Number; HOUSING OCCUPANCY - Total housing units,374249
+HD02_S169,Percent; HOUSING OCCUPANCY - Total housing units,100
+HD01_S170,Number; HOUSING OCCUPANCY - Total housing units - Occupied housing units,350854
+HD02_S170,Percent; HOUSING OCCUPANCY - Total housing units - Occupied housing units,93.7
+HD01_S171,Number; HOUSING OCCUPANCY - Total housing units - Vacant housing units,23395
+HD02_S171,Percent; HOUSING OCCUPANCY - Total housing units - Vacant housing units,6.3
+HD01_S172,Number; HOUSING OCCUPANCY - Total housing units - Vacant housing units - For rent,10519
+HD02_S172,Percent; HOUSING OCCUPANCY - Total housing units - Vacant housing units - For rent,2.8
+HD01_S173,"Number; HOUSING OCCUPANCY - Total housing units - Vacant housing units - Rented, not occupied",403
+HD02_S173,"Percent; HOUSING OCCUPANCY - Total housing units - Vacant housing units - Rented, not occupied",0.1
+HD01_S174,Number; HOUSING OCCUPANCY - Total housing units - Vacant housing units - For sale only,3197
+HD02_S174,Percent; HOUSING OCCUPANCY - Total housing units - Vacant housing units - For sale only,0.9
+HD01_S175,"Number; HOUSING OCCUPANCY - Total housing units - Vacant housing units - Sold, not occupied",758
+HD02_S175,"Percent; HOUSING OCCUPANCY - Total housing units - Vacant housing units - Sold, not occupied",0.2
+HD01_S176,"Number; HOUSING OCCUPANCY - Total housing units - Vacant housing units - For seasonal, recreational, or occasional use",2374
+HD02_S176,"Percent; HOUSING OCCUPANCY - Total housing units - Vacant housing units - For seasonal, recreational, or occasional use",0.6
+HD01_S177,Number; HOUSING OCCUPANCY - Total housing units - Vacant housing units - All other vacants,6144
+HD02_S177,Percent; HOUSING OCCUPANCY - Total housing units - Vacant housing units - All other vacants,1.6
+HD01_S178,Number; HOUSING OCCUPANCY - Total housing units - Homeowner vacancy rate (percent) [8],1.4
+HD02_S178,Percent; HOUSING OCCUPANCY - Total housing units - Homeowner vacancy rate (percent) [8], ( X ) 
+HD01_S179,Number; HOUSING OCCUPANCY - Total housing units - Rental vacancy rate (percent) [9],8
+HD02_S179,Percent; HOUSING OCCUPANCY - Total housing units - Rental vacancy rate (percent) [9], ( X ) 
+HD01_S180,Number; HOUSING TENURE - Occupied housing units,350854
+HD02_S180,Percent; HOUSING TENURE - Occupied housing units,100
+HD01_S181,Number; HOUSING TENURE - Occupied housing units - Owner-occupied housing units,229920
+HD02_S181,Percent; HOUSING TENURE - Occupied housing units - Owner-occupied housing units,65.5
+HD01_S182,Number; HOUSING TENURE - Occupied housing units - Owner-occupied housing units - Population in owner-occupied housing units,595918
+HD02_S182,Percent; HOUSING TENURE - Occupied housing units - Owner-occupied housing units - Population in owner-occupied housing units, ( X ) 
+HD01_S183,Number; HOUSING TENURE - Occupied housing units - Owner-occupied housing units - Average household size of owner-occupied units,2.59
+HD02_S183,Percent; HOUSING TENURE - Occupied housing units - Owner-occupied housing units - Average household size of owner-occupied units, ( X ) 
+HD01_S184,Number; HOUSING TENURE - Occupied housing units - Renter-occupied housing units,120934
+HD02_S184,Percent; HOUSING TENURE - Occupied housing units - Renter-occupied housing units,34.5
+HD01_S185,Number; HOUSING TENURE - Occupied housing units - Renter-occupied housing units - Population in renter-occupied housing units,269869
+HD02_S185,Percent; HOUSING TENURE - Occupied housing units - Renter-occupied housing units - Population in renter-occupied housing units, ( X ) 
+HD01_S186,Number; HOUSING TENURE - Occupied housing units - Renter-occupied housing units - Average household size of renter-occupied units,2.23
+HD02_S186,Percent; HOUSING TENURE - Occupied housing units - Renter-occupied housing units - Average household size of renter-occupied units, ( X ) 
