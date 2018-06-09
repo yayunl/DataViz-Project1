@@ -1,0 +1,11 @@
+GEO.id,GEO.id2,GEO.display-label,GCT_STUB.target-geo-id,GCT_STUB.target-geo-id2,GCT_STUB.display-label,GCT_STUB.display-label,HC01,HC02
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic Area,Geographic Area,Dollar,Margin of Error
+0400000US09,9,Connecticut,0400000US09,9,Connecticut,Connecticut,71755,473
+0400000US09,9,Connecticut,0500000US09001,9001,Connecticut - Fairfield County,Fairfield County,86670,1113
+0400000US09,9,Connecticut,0500000US09003,9003,Connecticut - Hartford County,Hartford County,68027,895
+0400000US09,9,Connecticut,0500000US09005,9005,Connecticut - Litchfield County,Litchfield County,73519,1457
+0400000US09,9,Connecticut,0500000US09007,9007,Connecticut - Middlesex County,Middlesex County,79837,1690
+0400000US09,9,Connecticut,0500000US09009,9009,Connecticut - New Haven County,New Haven County,62715,921
+0400000US09,9,Connecticut,0500000US09011,9011,Connecticut - New London County,New London County,67574,1516
+0400000US09,9,Connecticut,0500000US09013,9013,Connecticut - Tolland County,Tolland County,80129,1915
+0400000US09,9,Connecticut,0500000US09015,9015,Connecticut - Windham County,Windham County,60689,1613
