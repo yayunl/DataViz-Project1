@@ -18,8 +18,8 @@ We are looking to analyze trends in drug overdose death rates in Connecticut and
 
 ### Data Sources     
 
-* [Accidental Drug Overdose Related Deaths in Connecticut 2012-2017](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015).  (source:[Data.gov](https://catalog.data.gov/dataset))      
-* 2016 Education Attainment Connecticut.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))     
+* [*Accidental Drug Overdose Related Deaths in Connecticut 2012-2017*](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015).  (source:[Data.gov](https://catalog.data.gov/dataset))      
+* *2016 Education Attainment Connecticut.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))     
 * 2016 Employment Status by Age.csv  (source: [census.gov](https://www.census.gov/quickfacts/CT))    
 * 2016 Median Household Income County.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))   
 * FairfieldCountyPopulation.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))  
