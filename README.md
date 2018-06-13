@@ -1,9 +1,8 @@
-# **DataViz-Project1    
-**Drug Mortality and Socio-Economic Conditions in Connecticut**     
+# **DataViz-Project1: Drug Mortality and Socio-Economic Conditions in Connecticut**     
 
 
 ### Project Proposal      
-We are looking to analyze trends in drug overdose death rates in Connecticut and suggested improvements in data collection. And the research of the project aims to answer the following questions:    
+We are looking to analyze trends in drug overdose death rates in Connecticut and suggest improvements in data collection. And the research of the project aims to answer the following questions:    
 
 
 **Is there a relationship between**  
@@ -14,24 +13,10 @@ We are looking to analyze trends in drug overdose death rates in Connecticut and
 * drug-induced mortality rates and gender?    
 * drug-induced mortality rates and geo-location (counties)?    
 * drug-induced mortality rates and unemployment rates?    
-* drug-induced mortality rates and barriers to medical treatment?     
+* drug-induced mortality rates and barriers to medical treatment?       
 
-Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent [scope creep](https://en.wikipedia.org/wiki/Scope_creep).
 
-Write this as a brief summary of your interests and intent, including:
-
-* The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
-
-* The kinds of questions you'll be asking of that data
-
-* Possible source for such data
-
-In other words, write down what kind of data you plan to work with, and what kinds of questions you'd like to ask of it. This constitutes your Project Proposal/Outline, and should look something like this:
-
-> Our project is to uncover patterns in criminal activity around Los Angeles. We'll examine relationships between types of crime and location; crime rates and times of day; trends in crime rates over the course of the year; and related questions, as the data admits.
-
-### Finding Data
-
+### Data Sources     
 Once your group has written an outline, it's time to start hunting for data. You are free to use data from any source, but we recommend the following curated sources of high-quality data:
 
 * [data.world](https://data.world/)
