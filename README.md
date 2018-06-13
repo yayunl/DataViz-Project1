@@ -1,5 +1,5 @@
-# **DataViz-Project1**     
-## **Drug Mortality and Socio-Economic Conditions in Connecticut**     
+# **DataViz-Project1    
+**Drug Mortality and Socio-Economic Conditions in Connecticut**     
 
 
 ### Project Proposal      
