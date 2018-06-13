@@ -1,18 +1,18 @@
-# DataViz-Project1
-This repository is for the group project 1 in UTBootCamp.
+# **DataViz-Project1: Drug Mortality and Socio-Economic Conditions in Connecticut**     
 
 
-## Guidelines
+### Project Proposal      
+We are looking to analyze trends in drug overdose death rates in Connecticut and suggested improvements in data collection. And the research of the   
+project aims to answer the following questions:    
+**Is there a relationship between**  
 
-This document contains guidelines, requirements, and suggestions for Project 1.
-
-### Team Effort
-
-Before anything, remember that Projects are a **group effort**: Working closely with your teammates is a requirement. This both helps teach real-world collaborative workflows, and enables you to tackle more difficult problems than you'd be able to working alone.
-
-In other words, working in groups allows you to **work smart** and **dream big**. Take advantage of it!
-
-### Project Proposal
+* drug-induced mortality rates and income  
+* drug-induced mortality rates and age  
+* drug-induced mortality rates and education  
+* drug-induced mortality rates and gender  
+* drug-induced mortality rates and geo-location (counties)  
+* drug-induced mortality rates and unemployment rates  
+* drug-induced mortality rates and barriers to medical treatment   
 
 Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent [scope creep](https://en.wikipedia.org/wiki/Scope_creep).
 
