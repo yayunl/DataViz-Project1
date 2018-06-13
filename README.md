@@ -18,10 +18,16 @@ We are looking to analyze trends in drug overdose death rates in Connecticut and
 
 ### Data Sources     
 
-* [Drug overdose related deaths in Connecticut](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015).  Source:[Data.gov](https://catalog.data.gov/dataset)   
-* https://en.wikipedia.org/wiki/List_of_counties_in_Connecticut   
-* https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-guide.pdf  
-* http://www.portal.ct.gov/-/media/Departments-and-Agencies/DPH/hisr/PDF/DrugOverdoseReport2004pdf.pdf?la=en  
+* [Accidental Drug Overdose Related Deaths in Connecticut 2012-2017](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015).  (source:[Data.gov](https://catalog.data.gov/dataset))      
+* 2016 Education Attainment Connecticut.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))     
+* 2016 Employment Status by Age.csv  (source: [census.gov](https://www.census.gov/quickfacts/CT))    
+* 2016 Median Household Income County.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))   
+* FairfieldCountyPopulation.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* HartfordCountyPopulation (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* LitchfieldCountyPopulation.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* MiddlesexCountyPopulation.csv  (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* NewHavenCountyPopulation.csv  (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* NewLondonCountyPopulation.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))   
 
 Chances are you'll have to update your Project Outline as you explore the available data. **This is fine**&mdash;adjustments like this are part of the process! Just make sure everyone in the group is up-to-speed on the goals of the project as you make changes.
 
