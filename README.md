@@ -1,18 +1,20 @@
-# **DataViz-Project1: Drug Mortality and Socio-Economic Conditions in Connecticut**     
+# **DataViz-Project1**     
+## **Drug Mortality and Socio-Economic Conditions in Connecticut**     
 
 
 ### Project Proposal      
-We are looking to analyze trends in drug overdose death rates in Connecticut and suggested improvements in data collection. And the research of the   
-project aims to answer the following questions:    
+We are looking to analyze trends in drug overdose death rates in Connecticut and suggested improvements in data collection. And the research of the project aims to answer the following questions:    
+
+
 **Is there a relationship between**  
 
-* drug-induced mortality rates and income  
-* drug-induced mortality rates and age  
-* drug-induced mortality rates and education  
-* drug-induced mortality rates and gender  
-* drug-induced mortality rates and geo-location (counties)  
-* drug-induced mortality rates and unemployment rates  
-* drug-induced mortality rates and barriers to medical treatment   
+* drug-induced mortality rates and income?   
+* drug-induced mortality rates and age?    
+* drug-induced mortality rates and education?    
+* drug-induced mortality rates and gender?    
+* drug-induced mortality rates and geo-location (counties)?    
+* drug-induced mortality rates and unemployment rates?    
+* drug-induced mortality rates and barriers to medical treatment?     
 
 Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent [scope creep](https://en.wikipedia.org/wiki/Scope_creep).
 
