@@ -20,14 +20,19 @@ We are looking to analyze trends in drug overdose death rates in Connecticut and
 
 * [*Accidental Drug Overdose Related Deaths in Connecticut 2012-2017*](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015).  (source:[Data.gov](https://catalog.data.gov/dataset))      
 * *2016 Education Attainment Connecticut.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))     
-* 2016 Employment Status by Age.csv  (source: [census.gov](https://www.census.gov/quickfacts/CT))    
-* 2016 Median Household Income County.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))   
-* FairfieldCountyPopulation.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))  
-* HartfordCountyPopulation (source: [census.gov](https://www.census.gov/quickfacts/CT))  
-* LitchfieldCountyPopulation.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))  
-* MiddlesexCountyPopulation.csv  (source: [census.gov](https://www.census.gov/quickfacts/CT))  
-* NewHavenCountyPopulation.csv  (source: [census.gov](https://www.census.gov/quickfacts/CT))  
-* NewLondonCountyPopulation.csv (source: [census.gov](https://www.census.gov/quickfacts/CT))   
+* *2016 Employment Status by Age.csv*  (source: [census.gov](https://www.census.gov/quickfacts/CT))    
+* *2016 Median Household Income County.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))   
+* *FairfieldCountyPopulation.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* *HartfordCountyPopulation* (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* *LitchfieldCountyPopulation.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* *MiddlesexCountyPopulation.csv*  (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* *NewHavenCountyPopulation.csv*  (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* *NewLondonCountyPopulation.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))   
+* *TollandCountyPopulation.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* *WindhamCountyPopulation.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* *PopByCountyByYear.csv*  (source: [factfinder.census.gov](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml))  
+* *tl_2010_09_county10.json*  (source: [factfinder.census.gov](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml))   
+* *Unemployment Rate by County.csv* (source: [BLS Public Data API](https://censusreporter.org/profiles/35000US72850-danbury-ct-metropolitan-necta/))     
 
 Chances are you'll have to update your Project Outline as you explore the available data. **This is fine**&mdash;adjustments like this are part of the process! Just make sure everyone in the group is up-to-speed on the goals of the project as you make changes.
 
