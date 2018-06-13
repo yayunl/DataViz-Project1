@@ -13,3 +13,4 @@ config.py
 .ipynb_checkpoints/Clean_Accidental_Drug_Related_Deaths-checkpoint.ipynb
 .ipynb_checkpoints/Get_unemployment_rate_via_API-checkpoint.ipynb
 .ipynb_checkpoints/Plot drug related death and unemployment rate-checkpoint.ipynb
+.ipynb_checkpoints/*
