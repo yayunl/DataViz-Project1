@@ -326,7 +326,7 @@ plt.show()
 ```
 
 
-![png](Output/DeathsByRaceSexAge.png)  
+![png](Output/DeathsByRaceSexAge.png)   
 
 
 Regarding to the accidental drug-induced deaths year over year, we observed *Fentanyl* is the main contributor and the deaths caused by
@@ -344,16 +344,44 @@ plt.show()
 ```
 
 
-![png](Output/DeathsByDrug.png)
+![png](Output/DeathsByDrug.png)  
 
 
-### Presentation
 
-After you've analyzed your data to your satisfaction, you'll put together a presentation to show off your work, explain your process, and discuss your conclusions.
+The unemployment rate is in the inverse proportional to the drug-induced deaths in each county of Connecticut and in state level.  
 
-This presentation will be delivered as a slideshow, and should give your classmates and instructional staff an overview of your work. PowerPoint, Keynote, and Google Slides are all acceptable for building slides.
+```python
+fig, axes= plt.subplots(nrows=5, ncols=2, sharex=True, sharey=True,
+                       figsize=(15,15))
+fig.suptitle("Drug related deaths v.s. Unemployment rate", fontsize=20)
+index = 0
+row_index = 0
+for county, df in data.items():
+    row_index, col_index = row_index, int(index%2)
+#     print(f"row: {row_index}, col:{col_index}")
+    ax = axes[row_index, col_index]
 
-As long as your slides meet the [presentation requirements](PresentationRequirements.md), you are free to structure the presentation however you wish, but students are often successful with the format laid out in the [presentation guidelines](PresentationGuidelines.md).
+    ax.plot(df['Year'],df['Death'], 'b-')
+    ax.set_ylabel('Death Cases', color='b')
+    ax.tick_params('y', colors='b')
+    ax.set_title(county.upper())
+    
+    axes2 = ax.twinx()
+    axes2.plot(df['Year'],df['Unemployment rate'], 'r-')
+    axes2.set_ylabel('UE Rate (*10%)',color='r')
+    axes2.tick_params('y', colors='r')
+
+    
+    if col_index == 1 and index !=0:
+        row_index += 1
+    index +=1 
+fig.savefig('Drug deaths vs ue rate.png')
+```
+
+
+![png](Output/DrugDeathsVsUeRate.png)   
+
+
 
 
 ## Technical Requirements
@@ -372,6 +400,7 @@ As long as your slides meet the [presentation requirements](PresentationRequirem
 - [ ] Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions
 
 - [ ] Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
+
 
 ## Presentation Requirements
 **The presentation requirements for Project 1 are as follows.**
@@ -431,11 +460,4 @@ Your presentation must:
 * Questions
   * Open-floor Q&amp;A with the audience
 
-
-
-- - -
-
-#### Copyright
-
-Coding Boot Camp &copy; 2018. All Rights Reserved.
 
