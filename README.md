@@ -37,16 +37,36 @@ We are looking to analyze trends in drug overdose death rates in Connecticut and
 
 ### Data Cleanup &amp; Analysis
 
-*Accidental Drug Overdose Related Deaths in Connecticut 2012-2017.csv* is the raw dataset this project uses for the research. This dataset was  
-retrieved from [catalog.data.gov](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015). With this dataset in hand, the first thing  
-is to import the data into a dataframe and explore it.   
+*Accidental Drug Overdose Related Deaths in Connecticut 2012-2017.csv* is the raw dataset this project uses for the research. This dataset was retrieved from [catalog.data.gov](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015). With this dataset in hand, the first thing is to import the data into a dataframe and explore it.   
 
 #### Columns
-The dataset has 36 columns including the information about the dead such as *Sex*, *Age*, *Residence City* and  
-the information related to the death such as *Death City*, *Death County*, *InjuryPlace*, *DescriptionofInjury*. In addition, the drug types that are causing the death are   
-included in the dataset.   
+The dataset has 36 columns including the information about the dead such as *Sex*, *Age*, *Residence City* and the information related to the death such as *Death City*, *Death County*, *InjuryPlace*, *DescriptionofInjury*. In addition, the drug types that are causing the death are included in the dataset.   
+```python
+# Import the raw data
+drug_death_raw_df = pd.read_csv("../Resources/Accidental_Drug_Related_Deaths_2012-2017.csv")
+drug_death_raw_df = drug_death_raw_df[1:]
+drug_death_raw_df.columns
+```
 
+
+
+
+    Index(['CaseNumber', 'Date', 'Year', 'Sex', 'Race', 'Age', 'Residence City',
+           'Residence State', 'Residence County', 'Death City', 'Death State',
+           'Death County', 'Location', 'DescriptionofInjury', 'InjuryPlace',
+           'ImmediateCauseA', 'Heroin', 'Cocaine', 'Fentanyl', 'Oxycodone',
+           'Oxymorphone', 'EtOH', 'Hydrocodone', 'Benzodiazepine', 'Methadone',
+           'Amphet', 'Tramad', 'Morphine (not heroin)', 'Other', 'Any Opioid',
+           'MannerofDeath', 'AmendedMannerofDeath', 'DeathLoc',
+           'DeathLocationCity', 'DeathLocLat', 'DeathLocLong'],
+          dtype='object')  
+		  
 #### Value Counts  
+There are 4082 drug overdose related deaths in the dataset. However, the output of *drug_death_raw_df.count()* clearly shows that not each column has 4082 rows. For example, the column *Age* has 4080 values and 2 values are missing.
+Take the column *Death County* for example, it has 3430 value counts which are much less than the total death cases. But since both *DeathLocLat* and *DeathLocLong* have 4082 values, we can utilize the google api along with the latitude and longitude to retrieve the death county.
+Besides, we realized that even though some columns are missing values, it does not mean the data is not good. For example, a drug overdose related death is caused by Heroin and Cocaine, then other drug columns are empty. The column such as *Death State* is missing almost 50 percent of 
+values. But we can fill the empty values with `CT` as the dataset was collected in Connecticut.  
+
 ```python
 # Import the raw data
 drug_death_raw_df = pd.read_csv("../Resources/Accidental_Drug_Related_Deaths_2012-2017.csv")
