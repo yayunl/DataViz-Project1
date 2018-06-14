@@ -269,8 +269,25 @@ plt.savefig("DeathsPerYear.png")
 plt.show()
 ```
 
-
 ![png](Output/DeathsPerYear.png)  
+
+
+Regarding to the accidental drug-induced deaths year over year, we observed *Fentanyl* is the main contributor and the deaths caused by
+*fentanyl* kept increasing in the past 5 years.  
+```python
+# Deaths by drug
+deaths_by_drug = death_data_df.groupby('Year').agg({'Fentanyl': sum, 'Heroin':sum, 'Cocaine':sum, 'Oxycodone': sum, \
+                                                    'Oxymorphone': sum, 'EtOH': sum, 'Hydrocodone': sum, 'Benzodiazepine': sum, \
+                                                    'Methadone': sum, 'Amphet': sum, 'Tramad': sum, 'Morphine (not heroin)': sum})
+deaths_by_drug.plot(kind='bar', figsize=(12,8), stacked=True)
+plt.title("Accidental Drug Related Deaths per Year by Drug")
+plt.ylabel("Number of Deaths")
+plt.savefig("Output/DeathsByDrug.png")
+plt.show()
+```
+
+
+![png](Output/DeathsByDrug.png)
 
 
 ### Presentation
