@@ -14,5 +14,12 @@ config.py
 .ipynb_checkpoints/Get_unemployment_rate_via_API-checkpoint.ipynb
 .ipynb_checkpoints/Plot drug related death and unemployment rate-checkpoint.ipynb
 .ipynb_checkpoints/*
+<<<<<<< HEAD
 Code/.ipynb_checkpoints/sex_age_distribution-checkpoint.ipynb
 Code/.ipynb_checkpoints/Clean_Accidental_Drug_Related_Deaths-checkpoint.ipynb
+=======
+README2.md
+Code/.ipynb_checkpoints/Clean_Accidental_Drug_Related_Deaths-checkpoint.ipynb
+Code/.ipynb_checkpoints/sex_age_distribution-checkpoint.ipynb
+>>>>>>> e6e25fa05b76b7928503a599ca8b377d669896a2
+Code/.ipynb_checkpoints/county_choropleth-checkpoint.ipynb
