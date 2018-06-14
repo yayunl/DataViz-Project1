@@ -300,7 +300,33 @@ plt.show()
 ```
 
 
-![png](Output/DeathsByAgeGroup.png)
+![png](Output/DeathsByAgeGroup.png)  
+
+
+In Connecticut, of the deaths caused by drug overdose, the white is the dominant race group. From the gender's perspective, the deaths among male
+are much more than female by ~2 times.  
+```python
+colors_list = ["goldenrod","lightblue","tomato","turquoise","violet","wheat", "sienna","plum","orchid"]
+
+xticks = np.arange(1,len(age_groups))
+plt.figure(figsize=(15,10))
+w = 0.4
+for i, race in enumerate(race_order):
+
+    plt.bar(xticks,bars_male[i],bottom = stacking_bars_male[i],color=colors_list[i], label=race+" Male", width=w)
+    plt.bar(xticks+w,bars_female[i],bottom = stacking_bars_female[i], color="xkcd:"+colors_list[i],\
+            label=race+" Female", width=w)
+
+plt.xticks(xticks, age_grp_names)
+plt.xlabel("Age Group")
+plt.ylabel("Number of Deaths")
+plt.title("Distribution of Deaths by Race-Sex-Age")
+plt.legend()
+plt.show()
+```
+
+
+![png](Output/DeathsByRaceSexAge.png)  
 
 
 Regarding to the accidental drug-induced deaths year over year, we observed *Fentanyl* is the main contributor and the deaths caused by
