@@ -23,7 +23,7 @@ We are looking to analyze trends in drug overdose death rates in Connecticut and
 * *2016 Employment Status by Age.csv*  (source: [census.gov](https://www.census.gov/quickfacts/CT))    
 * *2016 Median Household Income County.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))   
 * *FairfieldCountyPopulation.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))  
-* *HartfordCountyPopulation* (source: [census.gov](https://www.census.gov/quickfacts/CT))  
+* *HartfordCountyPopulation.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))  
 * *LitchfieldCountyPopulation.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))  
 * *MiddlesexCountyPopulation.csv*  (source: [census.gov](https://www.census.gov/quickfacts/CT))  
 * *NewHavenCountyPopulation.csv*  (source: [census.gov](https://www.census.gov/quickfacts/CT))  
@@ -34,9 +34,6 @@ We are looking to analyze trends in drug overdose death rates in Connecticut and
 * *tl_2010_09_county10.json*  (source: [factfinder.census.gov](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml))   
 * *Unemployment Rate by County.csv* (source: [BLS Public Data API](https://censusreporter.org/profiles/35000US72850-danbury-ct-metropolitan-necta/))     
 
-Chances are you'll have to update your Project Outline as you explore the available data. **This is fine**&mdash;adjustments like this are part of the process! Just make sure everyone in the group is up-to-speed on the goals of the project as you make changes.
-
-Make sure that your data is not too large for local analysis. **Big Data** datasets are difficult to manage locally, so consider a subset of that data or a different dataset altogether.
 
 ### Data Cleanup &amp; Analysis
 
