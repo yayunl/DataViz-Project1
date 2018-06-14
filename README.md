@@ -236,13 +236,42 @@ unemployment_df.head()
 </div>   
 
 	
-Similarly, after you've massaged your data and are ready to start crunching numbers, you should keep track of your work in a Jupyter Notebook dedicated specifically to analysis.
+#### Data Analysis  
+The final report *Drug Mortality and Socio-Economic conditions in Connecticut.pptx* is attached to the repository.   
 
-During both phases, **don't forget to include plots**! Don't make the mistake of waiting to build figures until you're preparing your presentation. Creating them along the way can reveal insights and interesting trends in the data that you might not notice otherwise.
+Year over year, we observed an increasing trend of the drug-induced deaths in CT.  
 
-We recommend focusing your analysis on techniques such as aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis.
+```python
+# Import data and clean up dataframe
+death_data_df = pd.read_csv('Resources/Accidental_Drug_Related_Deaths_2012-2017_cleaned.csv')
+death_data_df = death_data_df.dropna(subset=["Age"])
+death_data_df.fillna(0, inplace=True)
+mapping = {'Y': 1, 'y': 1}
+death_data_df = death_data_df.replace({'Heroin': mapping, 'Cocaine': mapping, 'Fentanyl': mapping, 'Oxycodone': mapping,
+       'Oxymorphone': mapping, 'EtOH': mapping, 'Hydrocodone': mapping, 'Benzodiazepine': mapping, 'Methadone': mapping,
+       'Amphet': mapping, 'Tramad': mapping, 'Morphine (not heroin)': mapping, 'Other': mapping, 'Any Opioid': mapping})
+death_data_df = death_data_df[death_data_df.Year >= 2012]
+death_data_df[['Heroin', 'Cocaine', 'Fentanyl', 'Oxycodone','Oxymorphone', 'EtOH', 'Hydrocodone', 'Benzodiazepine', \
+               'Methadone', 'Amphet', 'Tramad', 'Morphine (not heroin)']]=death_data_df[['Heroin', 'Cocaine', 'Fentanyl', \
+                'Oxycodone', 'Oxymorphone', 'EtOH', 'Hydrocodone', 'Benzodiazepine', 'Methadone', 'Amphet', 'Tramad', \
+                'Morphine (not heroin)']].apply(pd.to_numeric, errors='coerce')
+```
 
-Finally, be sure that your projects meet the [technical requirements](TechnicalRequirements.md).
+
+```python
+# Graph deaths by year
+by_year = death_data_df.groupby(['Year'])
+by_year = by_year['CaseNumber'].count()
+by_year.plot(kind='bar', figsize=(12,8))
+plt.title("Accidental Drug Related Deaths per Year")
+plt.ylabel("Number of Deaths")
+plt.savefig("DeathsPerYear.png")
+plt.show()
+```
+
+
+![png](Output/DeathsPerYear.png)  
+
 
 ### Presentation
 
