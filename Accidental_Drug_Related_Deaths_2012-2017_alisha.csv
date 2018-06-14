@@ -1,0 +1,154 @@
+city,latitude,longitude,County,cluster
+NEW HAVEN,41.31,-72.92,New Haven County,5
+NEW MILFORD,41.58,-73.41,Litchfield County,3
+ENFIELD,41.98,-72.59,Hartford County,2
+POMFRET,41.9,-71.96,Windham County,8
+MIDDLETOWN,41.54,-72.65,Middlesex County,4
+BRIDGEPORT,41.18,-73.19,Fairfield County,1
+MANCHESTER,41.77,-72.52,Hartford County,2
+HARTFORD,41.77,-72.67,Hartford County,2
+SHARON,41.88,-73.48,Litchfield County,3
+TORRINGTON,41.81,-73.1,Litchfield County,3
+FARMINGTON,41.73,-72.82,Hartford County,2
+BRISTOL,41.67,-72.95,Hartford County,2
+MILFORD,41.22,-73.06,New Haven County,5
+WESTBROOK,41.28,-72.44,Middlesex County,4
+WASHINGTON,41.63,-73.31,Litchfield County,3
+NORWALK,41.12,-73.41,Fairfield County,1
+NEW LONDON,41.36,-72.1,New London County,6
+NEW BRITAIN,41.67,-72.78,Hartford County,2
+DANBURY,41.39,-73.45,Fairfield County,1
+WOODBURY,41.55,-73.21,Litchfield County,3
+MERIDEN,41.54,-72.8,New Haven County,5
+CHESHIRE,41.5,-72.9,New Haven County,5
+PUTNAM,41.91,-71.91,Windham County,8
+SEYMOUR,41.4,-73.07,New Haven County,5
+EAST HARTFORD,41.77,-72.64,Hartford County,2
+WEST HAVEN,41.27,-72.95,New Haven County,5
+NORWICH,41.52,-72.08,New London County,6
+STRATFORD,41.2,-73.13,Fairfield County,1
+WATERBURY,41.55,-73.04,New Haven County,5
+TRUMBULL,41.26,-73.22,Fairfield County,1
+EAST HAMPTON,41.58,-72.5,Middlesex County,4
+GROTON,41.34,-72.08,New London County,6
+WATERTOWN,41.61,-73.12,Litchfield County,3
+ESSEX,41.35,-72.4,Middlesex County,4
+TOLLAND,41.87,-72.37,Tolland County,7
+STAFFORD,41.98,-72.29,Tolland County,7
+WALLINGFORD,41.45,-72.82,New Haven County,5
+NORTH BRANFORD,41.32,-72.77,New Haven County,5
+DURHAM,41.49,-72.68,Middlesex County,4
+COVENTRY,41.77,-72.31,Tolland County,7
+STAMFORD,41.05,-73.54,Fairfield County,1
+NORTH CANAAN,42.03,-73.33,Litchfield County,3
+SOUTHINGTON,41.6,-72.88,Hartford County,2
+BRANFORD,41.28,-72.81,New Haven County,5
+PLAINVILLE,41.67,-72.86,Hartford County,2
+PLAINFIELD,41.68,-71.92,Windham County,8
+CLINTON,41.28,-72.53,Middlesex County,4
+GREENWICH,41.03,-73.63,Fairfield County,1
+NAUGATUCK,41.49,-73.06,New Haven County,5
+GLASTONBURY,41.71,-72.61,Hartford County,2
+AVON,41.81,-72.83,Hartford County,2
+ANSONIA,41.34,-73.08,New Haven County,5
+CANTON,41.82,-72.9,Hartford County,2
+ELLINGTON,41.9,-72.47,Tolland County,7
+FAIRFIELD,41.14,-73.25,Fairfield County,1
+VERNON,41.82,-72.48,Tolland County,7
+MONTVILLE,41.45,-72.14,New London County,6
+WESTPORT,41.14,-73.35,Fairfield County,1
+DERBY,41.32,-73.09,New Haven County,5
+MANSFIELD,41.77,-72.23,Tolland County,7
+MADISON,41.27,-72.6,New Haven County,5
+EAST WINDSOR,41.9,-72.58,Hartford County,2
+LEBANON,41.64,-72.21,New London County,6
+NEWTOWN,41.41,-73.31,Fairfield County,1
+KILLINGWORTH,41.36,-72.55,Middlesex County,4
+EAST HAVEN,41.28,-72.87,New Haven County,5
+HAMDEN,41.38,-72.91,New Haven County,5
+WINCHESTER,41.9,-73.13,Litchfield County,3
+DARIEN,41.08,-73.47,Fairfield County,1
+NEW CANAAN,41.15,-73.49,Fairfield County,1
+BERLIN,41.63,-72.75,Hartford County,2
+COLCHESTER,41.57,-72.33,New London County,6
+CHESTER,41.4,-72.45,Middlesex County,4
+NEW FAIRFIELD,41.47,-73.49,Fairfield County,1
+OXFORD,41.43,-73.12,New Haven County,5
+BETHANY,41.43,-72.99,New Haven County,5
+CROMWELL,41.6,-72.65,Middlesex County,4
+THOMASTON,41.67,-73.07,Litchfield County,3
+HARWINTON,41.77,-73.06,Litchfield County,3
+EAST LYME,41.37,-72.23,New London County,6
+LISBON,41.61,-71.96,New London County,6
+WINDSOR,41.85,-72.64,Hartford County,2
+SHELTON,41.32,-73.09,Fairfield County,1
+THOMPSON,41.96,-71.86,Windham County,8
+BURLINGTON,41.77,-72.96,Hartford County,2
+BROOKLYN,41.79,-71.95,Windham County,8
+MARLBOROUGH,41.63,-72.46,Hartford County,2
+WOODBRIDGE,41.35,-73.01,New Haven County,5
+MONROE,41.33,-73.21,Fairfield County,1
+WEST HARTFORD,41.76,-72.74,Hartford County,2
+ROCKY HILL,41.67,-72.64,Hartford County,2
+PRESTON,41.53,-71.97,New London County,6
+DEEP RIVER,41.39,-72.44,Middlesex County,4
+BARKHAMSTED,41.93,-72.91,Litchfield County,3
+BROOKFIELD,41.48,-73.41,Fairfield County,1
+WETHERSFIELD,41.71,-72.66,Hartford County,2
+FRANKLIN,41.61,-72.15,New London County,6
+BETHEL,41.37,-73.41,Fairfield County,1
+NORTH HAVEN,41.39,-72.86,New Haven County,5
+RIDGEFIELD,41.28,-73.5,Fairfield County,1
+MIDDLEBURY,41.53,-73.13,New Haven County,5
+WINDSOR LOCKS,41.92,-72.63,Hartford County,2
+EAST GRANBY,41.94,-72.73,Hartford County,2
+NEW HARTFORD,41.88,-72.98,Litchfield County,3
+NEWINGTON,41.7,-72.72,Hartford County,2
+VOLUNTOWN,41.57,-71.86,New London County,6
+SHERMAN,41.58,-73.5,Fairfield County,1
+LEDYARD,41.45,-72.02,New London County,6
+PORTLAND,41.58,-72.63,Middlesex County,4
+SALISBURY,41.98,-73.42,Litchfield County,3
+BLOOMFIELD,41.83,-72.74,Hartford County,2
+ASHFORD,41.87,-72.12,Windham County,8
+WATERFORD,41.34,-72.13,New London County,6
+SALEM,41.49,-72.27,New London County,6
+KILLINGLY,41.8,-71.89,Windham County,8
+SOUTHBURY,41.47,-73.2,New Haven County,5
+CANTERBURY,41.7,-71.97,Windham County,8
+OLD SAYBROOK,41.3,-72.38,Middlesex County,4
+WINDHAM,41.7,-72.16,Windham County,8
+HADDAM,41.48,-72.51,Middlesex County,4
+CHAPLIN,41.8,-72.13,Windham County,8
+COLUMBIA,41.7,-72.3,Tolland County,7
+EAST HADDAM,41.45,-72.46,Middlesex County,4
+PLYMOUTH,41.67,-73.05,Litchfield County,3
+GRANBY,41.95,-72.79,Hartford County,2
+SIMSBURY,41.88,-72.8,Hartford County,2
+SUFFIELD,41.98,-72.66,Hartford County,2
+SOUTH WINDSOR,41.83,-72.55,Hartford County,2
+BOZRAH,41.54,-72.18,New London County,6
+GUILFORD,41.28,-72.68,New Haven County,5
+HEBRON,41.66,-72.37,Tolland County,7
+STONINGTON,41.34,-71.91,New London County,6
+ORANGE,41.28,-73.03,New Haven County,5
+SPRAGUE,41.64,-72.07,New London County,6
+NORTH STONINGTON,41.44,-71.88,New London County,6
+STERLING,41.71,-71.83,Windham County,8
+WILTON,41.19,-73.43,Fairfield County,1
+MORRIS,41.68,-73.2,Litchfield County,3
+WILLINGTON,41.87,-72.26,Tolland County,7
+SOMERS,41.99,-72.45,Tolland County,7
+GRISWOLD,41.61,-71.96,New London County,6
+WOODSTOCK,41.95,-71.98,Windham County,8
+BEACON FALLS,41.44,-73.06,New Haven County,5
+WARREN,41.74,-73.35,Litchfield County,3
+OLD LYME,41.31,-72.33,New London County,6
+MIDDLEFIELD,41.52,-72.71,Middlesex County,4
+PROSPECT,41.5,-72.98,New Haven County,5
+Redding,41.3,-73.38,Fairfield County,1
+Easton,41.25,-73.3,Fairfield County,1
+Hampton,41.74,-72.07,Windham County,8
+Kent,41.72,-73.48,Litchfield County,3
+Bolton,41.77,-72.44,Tolland County,7
+Bridgewater,41.54,-73.37,Litchfield County,3
