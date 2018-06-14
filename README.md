@@ -269,7 +269,38 @@ plt.savefig("DeathsPerYear.png")
 plt.show()
 ```
 
-![png](Output/DeathsPerYear.png)  
+![png](Output/DeathsPerYear.png)   
+
+
+Most deaths are spreading among the ages between 25 to 54.  
+
+```python
+# Group data by age group
+
+# Create bins for age groups
+bins = [0, 17, 24, 34, 44, 54, 64, 100]
+
+# Create labels for the bins
+ages = ["< 18 Years", "18 to 24 Years", "25 to 34 Years", "35 to 44 Years", "45 to 54 Years", "55 to 65 Years", "65 Years or older" ]
+
+# Slice the data and place it into bins
+rank = pd.cut(death_data_df["Age"], bins, labels=ages)
+
+# Add column to main dataframe
+death_data_df["Age Group"] = rank
+
+# Group by year and age group for graphing
+by_year_age_group = death_data_df.groupby(['Year', 'Age Group'])
+by_year_age_group = by_year_age_group["CaseNumber"].count()
+
+# Create bar chart
+by_year_age_group.unstack(level=0).plot(kind='bar', figsize=(12,8))
+plt.title("Deaths by Age Group")
+plt.show()
+```
+
+
+![png](Output/DeathsByAgeGroup.png)
 
 
 Regarding to the accidental drug-induced deaths year over year, we observed *Fentanyl* is the main contributor and the deaths caused by
