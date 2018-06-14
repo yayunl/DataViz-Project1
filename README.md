@@ -65,11 +65,6 @@ drug_death_raw_df.columns
 There are 4082 drug overdose related deaths in the dataset. However, the output of *drug_death_raw_df.count()* clearly shows that not each column has 4082 rows. For example, the column *Age* has 4080 values and 2 values are missing.
 Take the column *Death County* for example, it has 3430 value counts which are much less than the total death cases. But since both *DeathLocLat* and *DeathLocLong* have 4082 values, we can utilize the google api along with the latitude and longitude to retrieve the death county. The column such as *Death State* is missing almost 50 percent of 
 values. But we can confidently fill the empty values with `CT` as the dataset was collected in Connecticut. Besides, we realized that even though some columns are missing values, it does not mean the data is not good. For example, if a drug overdose related death is caused by Heroin and Cocaine, then other drug columns would be empty.   
-
-#### Additional Data  
-The dataset itself has the limitation when it comes to the questions we want to answer. It cannot give us any insight into the relationship between the drug-induced mortality rates and income, neither can it tell us if the unemployment is the main reason causing drug-induced deaths. To be able to answer these kind of questions, we have to find 
-additional data. That is why we have different data sources in the previous section.
-
 ```python
 # Import the raw data
 drug_death_raw_df = pd.read_csv("../Resources/Accidental_Drug_Related_Deaths_2012-2017.csv")
@@ -116,8 +111,142 @@ drug_death_raw_df.count()
     DeathLocationCity        4082
     DeathLocLat              4082
     DeathLocLong             4082
-    dtype: int64  
+    dtype: int64    
 	
+
+#### Additional Data  
+The dataset itself has the limitation when it comes to the questions we want to answer. It cannot give us any insight into the relationship between the drug-induced mortality rates and income, neither can it tell us if the unemployment is the main reason causing drug-induced deaths. To be able to answer these kind of questions, we have to find 
+additional data. That is why we have different data sources in the previous section.  
+
+`For example, below is the snippet of getting the unemployment rate in 8 counties in Connecticut.`  
+### Using BLS API to retrieve the data for 8 counties in Connecticut
+
+
+```python
+
+headers = {'Content-type': 'application/json'}
+start_year, end_year = '2012', '2017'
+index = 0
+for county, sids in county_to_series_id.items():
+    print(county)
+#     print(sids)
+    data = json.dumps({"seriesid": sids,"startyear":start_year, "endyear":end_year})
+
+    p = requests.post('https://api.bls.gov/publicAPI/v2/timeseries/data/', data=data, headers=headers)
+
+    json_data = json.loads(p.text)
+    
+    for series in json_data['Results']['series']:
+        x=prettytable.PrettyTable(["series id","year","period","value","footnotes"])
+        seriesId = series['seriesID']
+
+        for item in series['data']:
+            year = item['year']
+            period = item['period']
+            value = item['value']
+            footnotes=""
+            for footnote in item['footnotes']:
+                if footnote:
+                    footnotes = footnotes + footnote['text'] + ','
+            
+            if '.' in value:
+                unemployment_df.loc[index, 'County'] = county
+                unemployment_df.loc[index, 'Year'] = year
+                unemployment_df.loc[index, 'Period'] = periods.get(period)
+                unemployment_df.loc[index, 'Unemployment Rate'] = value
+                unemployment_df.loc[index, 'Footnote'] = footnotes[0:-1]
+            index +=1
+```
+
+    Fairfield
+    Litchfield
+    New Haven
+    Middlesex
+    Hartford
+    Tolland
+    New London
+    Windham
+    
+
+
+```python
+# Visualize the dataframe
+unemployment_df.head()
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>County</th>
+      <th>Year</th>
+      <th>Period</th>
+      <th>Unemployment Rate</th>
+      <th>Footnote</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Fairfield</td>
+      <td>2017</td>
+      <td>Dec</td>
+      <td>3.9</td>
+      <td>Data were subject to revision on April 20, 2018.</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Fairfield</td>
+      <td>2017</td>
+      <td>Nov</td>
+      <td>4.1</td>
+      <td>Data were subject to revision on April 20, 2018.</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Fairfield</td>
+      <td>2017</td>
+      <td>Oct</td>
+      <td>4.2</td>
+      <td>Data were subject to revision on April 20, 2018.</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Fairfield</td>
+      <td>2017</td>
+      <td>Sept</td>
+      <td>4.2</td>
+      <td>Data were subject to revision on April 20, 2018.</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Fairfield</td>
+      <td>2017</td>
+      <td>Aug</td>
+      <td>4.6</td>
+      <td>Data were subject to revision on April 20, 2018.</td>
+    </tr>
+  </tbody>
+</table>
+</div>   
+
 	
 Similarly, after you've massaged your data and are ready to start crunching numbers, you should keep track of your work in a Jupyter Notebook dedicated specifically to analysis.
 
