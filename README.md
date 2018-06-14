@@ -18,7 +18,7 @@ We are looking to analyze trends in drug overdose death rates in Connecticut and
 
 ### Data Sources     
 
-* [*Accidental Drug Overdose Related Deaths in Connecticut 2012-2017*](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015).  (source:[Data.gov](https://catalog.data.gov/dataset))      
+* [*Accidental Drug Overdose Related Deaths in Connecticut 2012-2017.csv*](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015).  (source:[Data.gov](https://catalog.data.gov/dataset))      
 * *2016 Education Attainment Connecticut.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))     
 * *2016 Employment Status by Age.csv*  (source: [census.gov](https://www.census.gov/quickfacts/CT))    
 * *2016 Median Household Income County.csv* (source: [census.gov](https://www.census.gov/quickfacts/CT))   
@@ -37,12 +37,65 @@ We are looking to analyze trends in drug overdose death rates in Connecticut and
 
 ### Data Cleanup &amp; Analysis
 
-With data in hand, it's time to tackle development and analysis. This is where the fun starts!
+*Accidental Drug Overdose Related Deaths in Connecticut 2012-2017.csv* is the raw dataset this project uses for the research. This dataset was  
+retrieved from [catalog.data.gov](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015). With this dataset in hand, the first thing  
+is to import the data into a dataframe and explore it.   
 
-Inevitably, the analysis process can be broken into two broad phases: **Exploration &amp; Cleanup** and **Analysis** proper.
+#### Columns
+The dataset has 36 columns including the information about the dead such as *Sex*, *Age*, *Residence City* and  
+the information related to the death such as *Death City*, *Death County*, *InjuryPlace*, *DescriptionofInjury*. In addition, the drug types that are causing the death are   
+included in the dataset.   
 
-As you've learned, you'll need to explore, clean, and reformat your data before you can begin to answer your research questions. We recommend keeping track of these exploration and cleanup steps in a dedicated Jupyter Notebook, both for organization's sake and to make it easier to  present your work later.
+#### Value Counts  
+```python
+# Import the raw data
+drug_death_raw_df = pd.read_csv("../Resources/Accidental_Drug_Related_Deaths_2012-2017.csv")
+drug_death_raw_df = drug_death_raw_df[1:]
+drug_death_raw_df.count()
+```
 
+
+
+
+    CaseNumber               4082
+    Date                     4080
+    Year                     4082
+    Sex                      4079
+    Race                     4072
+    Age                      4080
+    Residence City           3948
+    Residence State          2116
+    Residence County         3332
+    Death City               4079
+    Death State              2201
+    Death County             3430
+    Location                 4061
+    DescriptionofInjury      1495
+    InjuryPlace              4004
+    ImmediateCauseA          4082
+    Heroin                   2154
+    Cocaine                  1176
+    Fentanyl                 1466
+    Oxycodone                 547
+    Oxymorphone                97
+    EtOH                     1005
+    Hydrocodone               105
+    Benzodiazepine           1077
+    Methadone                 388
+    Amphet                    103
+    Tramad                     90
+    Morphine (not heroin)      56
+    Other                     378
+    Any Opioid                714
+    MannerofDeath            4075
+    AmendedMannerofDeath       28
+    DeathLoc                 4082
+    DeathLocationCity        4082
+    DeathLocLat              4082
+    DeathLocLong             4082
+    dtype: int64  
+	
+	
 Similarly, after you've massaged your data and are ready to start crunching numbers, you should keep track of your work in a Jupyter Notebook dedicated specifically to analysis.
 
 During both phases, **don't forget to include plots**! Don't make the mistake of waiting to build figures until you're preparing your presentation. Creating them along the way can reveal insights and interesting trends in the data that you might not notice otherwise.
