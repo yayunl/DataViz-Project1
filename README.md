@@ -61,11 +61,14 @@ drug_death_raw_df.columns
            'DeathLocationCity', 'DeathLocLat', 'DeathLocLong'],
           dtype='object')  
 		  
-#### Value Counts  
+#### Missing Values  
 There are 4082 drug overdose related deaths in the dataset. However, the output of *drug_death_raw_df.count()* clearly shows that not each column has 4082 rows. For example, the column *Age* has 4080 values and 2 values are missing.
-Take the column *Death County* for example, it has 3430 value counts which are much less than the total death cases. But since both *DeathLocLat* and *DeathLocLong* have 4082 values, we can utilize the google api along with the latitude and longitude to retrieve the death county.
-Besides, we realized that even though some columns are missing values, it does not mean the data is not good. For example, a drug overdose related death is caused by Heroin and Cocaine, then other drug columns are empty. The column such as *Death State* is missing almost 50 percent of 
-values. But we can fill the empty values with `CT` as the dataset was collected in Connecticut.  
+Take the column *Death County* for example, it has 3430 value counts which are much less than the total death cases. But since both *DeathLocLat* and *DeathLocLong* have 4082 values, we can utilize the google api along with the latitude and longitude to retrieve the death county. The column such as *Death State* is missing almost 50 percent of 
+values. But we can confidently fill the empty values with `CT` as the dataset was collected in Connecticut. Besides, we realized that even though some columns are missing values, it does not mean the data is not good. For example, if a drug overdose related death is caused by Heroin and Cocaine, then other drug columns would be empty.   
+
+#### Additional Data  
+The dataset itself has the limitation when it comes to the questions we want to answer. It cannot give us any insight into the relationship between the drug-induced mortality rates and income, neither can it tell us if the unemployment is the main reason causing drug-induced deaths. To be able to answer these kind of questions, we have to find 
+additional data. That is why we have different data sources in the previous section.
 
 ```python
 # Import the raw data
